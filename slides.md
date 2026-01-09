@@ -456,8 +456,6 @@ Never let "I can't code" stop you — your students won't either 🚀
 
 Now let me show you these mental models in action with some examples I've built.
 
-*[FACILITATOR: Demo your 2-3 pre-built artifacts here, showing the prompt evolution for each]*
-
 ---
 
 <div class="h-full flex items-center justify-center bg-gradient-to-br from-green-500 to-blue-500 text-white">
