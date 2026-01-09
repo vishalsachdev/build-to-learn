@@ -1,6 +1,4 @@
-[https://go.illinois.edu/buildtolearn](https://go.illinois.edu/buildtolearn) 
 
-[Slide Deck](https://docs.google.com/presentation/d/1fZr6gKq8vRRFJzs1_PdcIrCQY5yr3tbV/edit?usp=sharing&ouid=116925345542930267261&rtpof=true&sd=true) 
 
 # **Build to Learn \- Learn to Build**
 
