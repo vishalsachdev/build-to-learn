@@ -603,6 +603,11 @@ makereal.tldraw.com
 <span class="text-lg">All of these are achievable — and you can assign them to students too.</span>
 </div>
 
+<div class="mt-6 p-4 bg-blue-100 dark:bg-blue-800 rounded-lg text-center">
+<div class="text-lg font-bold mb-2">📋 Track your progress</div>
+<div class="text-base">Open the shared worksheet: <a href="[WORKSHEET-URL]" target="_blank" class="underline font-mono">[WORKSHEET-URL]</a></div>
+</div>
+
 ---
 
 <div class="h-full flex items-center justify-center bg-gradient-to-br from-blue-500 to-purple-600 text-white">
@@ -655,18 +660,18 @@ Try saying:
 
 <div class="text-center">
 
-<div class="p-8 bg-blue-50 dark:bg-blue-900 rounded-2xl mb-12">
-<div class="text-5xl mb-4">👨‍🏫</div>
-<div class="text-3xl font-bold">You — an educator — just built something</div>
-<div class="text-6xl font-bold text-blue-600 dark:text-blue-300 my-4">in an hour</div>
+<div class="p-6 bg-blue-50 dark:bg-blue-900 rounded-2xl mb-8">
+<div class="text-4xl mb-3">👨‍🏫</div>
+<div class="text-2xl font-bold">You — an educator — just built something</div>
+<div class="text-5xl font-bold text-blue-600 dark:text-blue-300 my-3">in an hour</div>
 </div>
 
-<div class="text-6xl mb-8">⬇️</div>
+<div class="text-5xl mb-6">⬇️</div>
 
-<div class="p-8 bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900 dark:to-pink-900 rounded-2xl">
-<div class="text-3xl font-bold mb-4">Now imagine</div>
-<div class="text-5xl font-bold text-purple-600 dark:text-purple-300">your students doing this</div>
-<div class="text-7xl mt-6">🚀</div>
+<div class="p-6 bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900 dark:to-pink-900 rounded-2xl">
+<div class="text-2xl font-bold mb-3">Now imagine</div>
+<div class="text-4xl font-bold text-purple-600 dark:text-purple-300">your students doing this</div>
+<div class="text-6xl mt-4">🚀</div>
 </div>
 
 </div>
@@ -679,21 +684,21 @@ Try saying:
 
 <div class="flex items-center justify-center h-full">
 
-<div class="text-center max-w-4xl">
+<div class="text-center max-w-3xl">
 
-<div class="text-3xl mb-8">If you teach</div>
+<div class="text-2xl mb-6">If you teach</div>
 
-<div class="p-8 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900 rounded-2xl mb-8">
-<div class="text-7xl font-bold text-blue-600 dark:text-blue-300">30 students</div>
-<div class="text-2xl mt-4">to be builders too</div>
+<div class="p-6 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900 rounded-2xl mb-6">
+<div class="text-6xl font-bold text-blue-600 dark:text-blue-300">30 students</div>
+<div class="text-xl mt-3">to be builders too</div>
 </div>
 
-<div class="text-5xl my-8">×</div>
+<div class="text-4xl my-6">×</div>
 
-<div class="p-8 bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-2xl">
-<div class="text-2xl mb-4">Each creates one tool =</div>
-<div class="text-7xl font-bold text-green-600 dark:text-green-300">30 new</div>
-<div class="text-3xl mt-4">learning resources — created by the people who need them most</div>
+<div class="p-6 bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-2xl">
+<div class="text-xl mb-3">Each creates one tool =</div>
+<div class="text-6xl font-bold text-green-600 dark:text-green-300">30 new</div>
+<div class="text-2xl mt-3">learning resources — created by the people who need them most</div>
 </div>
 
 </div>
@@ -796,21 +801,21 @@ Try saying:
 
 # Exit Ticket
 
-<div class="space-y-8 my-12">
+<div class="space-y-6 my-8">
 
-<div class="p-8 bg-gradient-to-r from-yellow-100 to-orange-100 dark:from-yellow-900 dark:to-orange-900 rounded-xl border-l-8 border-yellow-500">
-<div class="text-5xl mb-4">💡</div>
-<div class="text-2xl font-bold">One thing that clicked</div>
+<div class="p-6 bg-gradient-to-r from-yellow-100 to-orange-100 dark:from-yellow-900 dark:to-orange-900 rounded-xl border-l-8 border-yellow-500">
+<div class="text-4xl mb-3">💡</div>
+<div class="text-xl font-bold">One thing that clicked</div>
 </div>
 
-<div class="p-8 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900 rounded-xl border-l-8 border-blue-500">
-<div class="text-5xl mb-4">❓</div>
-<div class="text-2xl font-bold">One thing still fuzzy</div>
+<div class="p-6 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900 rounded-xl border-l-8 border-blue-500">
+<div class="text-4xl mb-3">❓</div>
+<div class="text-xl font-bold">One thing still fuzzy</div>
 </div>
 
-<div class="p-8 bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-xl border-l-8 border-green-500">
-<div class="text-5xl mb-4">🚀</div>
-<div class="text-2xl font-bold">What will you build — or have your students build — in the next 2 weeks?</div>
+<div class="p-6 bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-xl border-l-8 border-green-500">
+<div class="text-4xl mb-3">🚀</div>
+<div class="text-xl font-bold">What will you build — or have your students build — in the next 2 weeks?</div>
 </div>
 
 </div>
