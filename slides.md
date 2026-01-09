@@ -613,7 +613,7 @@ makereal.tldraw.com
 <div class="text-9xl mb-8">🚀</div>
 <div class="text-7xl font-bold mb-6">BUILD SESSION 2</div>
 <div class="text-4xl mb-4">Make It Real in AI Studio</div>
-<div class="text-6xl font-bold">20 minutes</div>
+<div class="text-6xl font-bold">15 minutes</div>
 </div>
 </div>
 
