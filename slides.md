@@ -603,7 +603,7 @@ makereal.tldraw.com
 
 <div class="mt-6 p-4 bg-blue-100 dark:bg-blue-800 rounded-lg text-center">
 <div class="text-lg font-bold mb-2">📋 Track your progress</div>
-<div class="text-base">Open the shared worksheet: <a href="[WORKSHEET-URL]" target="_blank" class="underline font-mono">[WORKSHEET-URL]</a></div>
+<div class="text-base">Open the shared worksheet: <a href="https://github.com/vishalsachdev/build-to-learn/blob/main/worksheet.md" target="_blank" class="underline font-mono">go.illinois.edu/buildtolearn</a></div>
 </div>
 
 ---
