@@ -192,7 +192,7 @@
 
 ## Materials Needed
 
-- Slides (slides.md via Slidev)
+- Slides (`slides/2025-01-09-future-world-alliance-online/slides.md` via Slidev)
 - Timer (phone or online)
 - Shared Google Doc for URLs
 - Pre-built demo artifacts

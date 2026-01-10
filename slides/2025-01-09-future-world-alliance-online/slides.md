@@ -27,6 +27,10 @@ transition: slide-left
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
     @vishalsachdev <carbon:arrow-right class="inline"/>
   </span>
+  <div class="mt-4 text-sm opacity-80 space-y-1">
+    <div>https://chatwithgpt.substack.com/</div>
+    <div>LinkedIn - vishalsachdev</div>
+  </div>
 </div>
 
 ---
@@ -103,7 +107,7 @@ Teachers as Content Deliverers → Teachers as Builders
 
 </div>
 
-<div class="p-8 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900 dark:to-purple-900 rounded-xl">
+<div class="p-8 bg-gradient-to-br from-blue-50 to-emerald-50 dark:from-blue-900 dark:to-emerald-900 rounded-xl">
 
 <div class="text-5xl mb-6">💡</div>
 
@@ -144,7 +148,7 @@ Students become **creators**, not consumers
 
 <div class="my-12">
 
-<div class="text-center p-8 bg-gradient-to-r from-purple-100 to-blue-100 dark:from-purple-900 dark:to-blue-900 rounded-2xl border-l-4 border-purple-500">
+<div class="text-center p-8 bg-gradient-to-r from-emerald-100 to-blue-100 dark:from-emerald-900 dark:to-blue-900 rounded-2xl border-l-4 border-emerald-500">
 <div class="text-3xl font-bold italic leading-relaxed">
 "Not by banning AI,<br/>but by making creation the default."
 </div>
@@ -191,9 +195,9 @@ Engagement transforms
 <p class="text-lg">Learning happens through attempt → feedback → refinement cycles</p>
 </div>
 
-<div class="p-6 bg-gradient-to-br from-purple-50 to-purple-100 dark:from-purple-900 dark:to-purple-800 rounded-xl">
+<div class="p-6 bg-gradient-to-br from-emerald-50 to-emerald-100 dark:from-emerald-900 dark:to-emerald-800 rounded-xl">
 <div class="text-5xl mb-4">🔍</div>
-<h3 class="text-2xl font-bold mb-3 text-purple-600 dark:text-purple-300">CURIOSITY</h3>
+<h3 class="text-2xl font-bold mb-3 text-emerald-600 dark:text-emerald-300">CURIOSITY</h3>
 <p class="text-lg">Building something real sparks questions worksheets never will</p>
 </div>
 
@@ -205,7 +209,7 @@ Engagement transforms
 
 ---
 
-<div class="h-full flex items-center justify-center bg-gradient-to-br from-purple-500 to-blue-500 text-white">
+<div class="h-full flex items-center justify-center bg-gradient-to-br from-emerald-500 to-blue-500 text-white">
 <div class="text-center">
 <div class="text-8xl font-bold mb-4">PART 1</div>
 <div class="text-4xl mb-8">Mental Models</div>
@@ -235,7 +239,7 @@ These mental models will serve you **far beyond today**.
 
 <div class="max-w-4xl">
 
-<div class="p-10 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900 rounded-2xl border-l-8 border-blue-500 shadow-xl">
+<div class="p-10 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-2xl border-l-8 border-blue-500 shadow-xl">
 
 <div class="text-4xl font-bold leading-relaxed mb-8">
 "The skill that makes you great at AI isn't technical.<br/>
@@ -263,7 +267,7 @@ It's <strong>social</strong>. It's about <strong>perspective-taking</strong>.
 
 <div class="my-8">
 
-<div class="p-6 bg-purple-50 dark:bg-purple-900 rounded-xl mb-8 text-xl">
+<div class="p-6 bg-emerald-50 dark:bg-emerald-900 rounded-xl mb-8 text-xl">
 <div class="text-4xl mb-3">🧠</div>
 Your capacity to <strong>model another agent's</strong> beliefs, goals, and perspective.
 </div>
@@ -298,15 +302,15 @@ Your capacity to <strong>model another agent's</strong> beliefs, goals, and pers
 
 <div class="flex items-center h-full">
 
-<div class="p-10 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900 dark:to-purple-900 rounded-2xl border-l-8 border-purple-500">
+<div class="p-10 bg-gradient-to-br from-blue-50 to-emerald-50 dark:from-blue-900 dark:to-emerald-900 rounded-2xl border-l-8 border-emerald-500">
 
 <div class="text-5xl mb-6 text-center">🌉</div>
 
 <div class="text-2xl leading-relaxed italic">
-"If I ask AI to 'make a quiz for my students,' it doesn't know their <span class="text-orange-600 dark:text-orange-300 font-bold">reading level</span>, what we <span class="text-blue-600 dark:text-blue-300 font-bold">just covered</span>, whether it's <span class="text-purple-600 dark:text-purple-300 font-bold">formative or summative</span>, or that half my class are <span class="text-green-600 dark:text-green-300 font-bold">ELL students</span>.
+"If I ask AI to 'make a quiz for my students,' it doesn't know their <span class="text-orange-600 dark:text-orange-300 font-bold">reading level</span>, what we <span class="text-blue-600 dark:text-blue-300 font-bold">just covered</span>, whether it's <span class="text-emerald-600 dark:text-emerald-300 font-bold">formative or summative</span>, or that half my class are <span class="text-green-600 dark:text-green-300 font-bold">ELL students</span>.
 </div>
 
-<div class="mt-8 text-2xl font-bold text-center text-purple-600 dark:text-purple-300">
+<div class="mt-8 text-2xl font-bold text-center text-emerald-600 dark:text-emerald-300">
 My job is to be the bridge — to translate my tacit knowledge into explicit context.
 </div>
 
@@ -334,7 +338,7 @@ My job is to be the bridge — to translate my tacit knowledge into explicit con
 <p class="text-lg">Wordsmithing — finding the magic phrase, the clever trick</p>
 </div>
 
-<div class="p-8 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900 dark:to-purple-900 rounded-xl border-2 border-blue-300">
+<div class="p-8 bg-gradient-to-br from-blue-50 to-emerald-50 dark:from-blue-900 dark:to-emerald-900 rounded-xl border-2 border-blue-300">
 <div class="text-4xl mb-4">✅</div>
 <h3 class="text-xl font-bold mb-3">Context Engineering</h3>
 <p class="text-lg"><strong>What information</strong> you include, not how cleverly you phrase it</p>
@@ -400,7 +404,7 @@ Today we move you to <span class="text-green-600 dark:text-green-300 font-bold">
 <div class="text-8xl mb-6">👨‍🏫</div>
 <div class="text-3xl font-bold mb-4">You</div>
 <div class="text-xl">Describe what your learners need</div>
-<div class="text-lg mt-4 p-4 bg-purple-50 dark:bg-purple-900 rounded-lg">
+<div class="text-lg mt-4 p-4 bg-emerald-50 dark:bg-emerald-900 rounded-lg">
 Your expertise: <strong>Pedagogy</strong>
 </div>
 </div>
@@ -504,7 +508,7 @@ Now let me show you these mental models in action with some examples I've built.
 
 </div>
 
-<div class="text-center p-6 bg-gradient-to-br from-blue-50 to-purple-50 dark:from-blue-900 dark:to-purple-900 rounded-xl border-2 border-blue-300">
+<div class="text-center p-6 bg-gradient-to-br from-blue-50 to-emerald-50 dark:from-blue-900 dark:to-emerald-900 rounded-xl border-2 border-blue-300">
 
 <div class="text-5xl mb-4">🤖</div>
 <div class="text-3xl font-bold mb-2">STEP 2</div>
@@ -562,53 +566,53 @@ makereal.tldraw.com
 
 # Pick One to Build
 
-<div class="grid grid-cols-2 gap-4 my-6">
+<div class="grid grid-cols-2 gap-4 my-4">
 
-<div class="p-4 bg-blue-50 dark:bg-blue-900 rounded-lg hover:scale-105 transition">
+<div class="p-3 bg-blue-50 dark:bg-blue-900 rounded-lg hover:scale-105 transition">
 📚 <strong>Vocabulary flashcards</strong>
 <div class="text-sm text-gray-600 dark:text-gray-400">For any subject — students can make their own too</div>
 </div>
 
-<div class="p-4 bg-purple-50 dark:bg-purple-900 rounded-lg hover:scale-105 transition">
+<div class="p-3 bg-emerald-50 dark:bg-emerald-900 rounded-lg hover:scale-105 transition">
 🎲 <strong>Random student picker</strong>
 <div class="text-sm text-gray-600 dark:text-gray-400">Fair participation, add your class names</div>
 </div>
 
-<div class="p-4 bg-green-50 dark:bg-green-900 rounded-lg hover:scale-105 transition">
+<div class="p-3 bg-green-50 dark:bg-green-900 rounded-lg hover:scale-105 transition">
 ⏰ <strong>Activity timer</strong>
 <div class="text-sm text-gray-600 dark:text-gray-400">Transitions, group work, think-pair-share</div>
 </div>
 
-<div class="p-4 bg-orange-50 dark:bg-orange-900 rounded-lg hover:scale-105 transition">
+<div class="p-3 bg-orange-50 dark:bg-orange-900 rounded-lg hover:scale-105 transition">
 ✅ <strong>Quick formative quiz</strong>
 <div class="text-sm text-gray-600 dark:text-gray-400">Check understanding on today's lesson</div>
 </div>
 
-<div class="p-4 bg-pink-50 dark:bg-pink-900 rounded-lg hover:scale-105 transition">
+<div class="p-3 bg-pink-50 dark:bg-pink-900 rounded-lg hover:scale-105 transition">
 📝 <strong>Exit ticket</strong>
 <div class="text-sm text-gray-600 dark:text-gray-400">What clicked? What's still fuzzy?</div>
 </div>
 
-<div class="p-4 bg-teal-50 dark:bg-teal-900 rounded-lg hover:scale-105 transition">
+<div class="p-3 bg-teal-50 dark:bg-teal-900 rounded-lg hover:scale-105 transition">
 🎯 <strong>Learning objective tracker</strong>
 <div class="text-sm text-gray-600 dark:text-gray-400">Students self-assess against goals</div>
 </div>
 
 </div>
 
-<div class="mt-8 p-6 bg-gradient-to-r from-yellow-50 to-orange-50 dark:from-yellow-900 dark:to-orange-900 rounded-xl text-center text-xl">
+<div class="mt-4 p-4 bg-gradient-to-r from-yellow-50 to-orange-50 dark:from-yellow-900 dark:to-orange-900 rounded-xl text-center text-lg">
 💡 <strong>Or...</strong> solve a real challenge from your classroom!<br/>
-<span class="text-lg">All of these are achievable — and you can assign them to students too.</span>
+<span class="text-base">All of these are achievable — and you can assign them to students too.</span>
 </div>
 
-<div class="mt-6 p-4 bg-blue-100 dark:bg-blue-800 rounded-lg text-center">
-<div class="text-lg font-bold mb-2">📋 Track your progress</div>
-<div class="text-base">Open the shared worksheet: <a href="https://github.com/vishalsachdev/build-to-learn/blob/main/worksheet.md" target="_blank" class="underline font-mono">go.illinois.edu/buildtolearn</a></div>
+<div class="mt-4 p-3 bg-blue-100 dark:bg-blue-800 rounded-lg text-center">
+<div class="text-base font-bold mb-1">📋 Track your progress</div>
+<div class="text-sm">Open the shared worksheet: <a href="https://github.com/vishalsachdev/build-to-learn/blob/main/materials/2025-01-09-future-world-alliance-online/worksheet.md" target="_blank" class="underline font-mono">go.illinois.edu/buildtolearn</a></div>
 </div>
 
 ---
 
-<div class="h-full flex items-center justify-center bg-gradient-to-br from-blue-500 to-purple-600 text-white">
+<div class="h-full flex items-center justify-center bg-gradient-to-br from-blue-500 to-emerald-600 text-white">
 <div class="text-center">
 <div class="text-9xl mb-8">🚀</div>
 <div class="text-7xl font-bold mb-6">BUILD SESSION 2</div>
@@ -642,7 +646,7 @@ Try saying:
 
 ---
 
-<div class="h-full flex items-center justify-center bg-gradient-to-br from-purple-600 to-pink-500 text-white">
+<div class="h-full flex items-center justify-center bg-gradient-to-br from-emerald-600 to-pink-500 text-white">
 <div class="text-center">
 <div class="text-8xl font-bold mb-4">CLOSING</div>
 <div class="text-4xl opacity-90">What's Next</div>
@@ -666,9 +670,9 @@ Try saying:
 
 <div class="text-5xl mb-6">⬇️</div>
 
-<div class="p-6 bg-gradient-to-r from-purple-50 to-pink-50 dark:from-purple-900 dark:to-pink-900 rounded-2xl">
+<div class="p-6 bg-gradient-to-r from-emerald-50 to-pink-50 dark:from-emerald-900 dark:to-pink-900 rounded-2xl">
 <div class="text-2xl font-bold mb-3">Now imagine</div>
-<div class="text-4xl font-bold text-purple-600 dark:text-purple-300">your students doing this</div>
+<div class="text-4xl font-bold text-emerald-600 dark:text-emerald-300">your students doing this</div>
 <div class="text-6xl mt-4">🚀</div>
 </div>
 
@@ -686,7 +690,7 @@ Try saying:
 
 <div class="text-2xl mb-6">If you teach</div>
 
-<div class="p-6 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900 rounded-2xl mb-6">
+<div class="p-6 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-2xl mb-6">
 <div class="text-6xl font-bold text-blue-600 dark:text-blue-300">30 students</div>
 <div class="text-xl mt-3">to be builders too</div>
 </div>
@@ -707,24 +711,24 @@ Try saying:
 
 # Same Principles, For Students
 
-<div class="grid grid-cols-3 gap-8 my-12">
+<div class="grid grid-cols-3 gap-6 my-8">
 
-<div class="p-6 bg-gradient-to-br from-orange-50 to-orange-100 dark:from-orange-900 dark:to-orange-800 rounded-xl text-center">
-<div class="text-6xl mb-4">⚡</div>
-<h3 class="text-2xl font-bold mb-3 text-orange-600 dark:text-orange-300">AGENCY</h3>
-<p class="text-lg">When students build their own study tools, they <strong>own their learning</strong></p>
+<div class="p-4 bg-gradient-to-br from-orange-50 to-orange-100 dark:from-orange-900 dark:to-orange-800 rounded-xl text-center">
+<div class="text-5xl mb-3">⚡</div>
+<h3 class="text-xl font-bold mb-2 text-orange-600 dark:text-orange-300">AGENCY</h3>
+<p class="text-base">When students build their own study tools, they <strong>own their learning</strong></p>
 </div>
 
-<div class="p-6 bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900 dark:to-blue-800 rounded-xl text-center">
-<div class="text-6xl mb-4">🔄</div>
-<h3 class="text-2xl font-bold mb-3 text-blue-600 dark:text-blue-300">ITERATION</h3>
-<p class="text-lg">"Fix what's wrong" beats "get it right the first time"</p>
+<div class="p-4 bg-gradient-to-br from-blue-50 to-blue-100 dark:from-blue-900 dark:to-blue-800 rounded-xl text-center">
+<div class="text-5xl mb-3">🔄</div>
+<h3 class="text-xl font-bold mb-2 text-blue-600 dark:text-blue-300">ITERATION</h3>
+<p class="text-base">"Fix what's wrong" beats "get it right the first time"</p>
 </div>
 
-<div class="p-6 bg-gradient-to-br from-purple-50 to-purple-100 dark:from-purple-900 dark:to-purple-800 rounded-xl text-center">
-<div class="text-6xl mb-4">🔍</div>
-<h3 class="text-2xl font-bold mb-3 text-purple-600 dark:text-purple-300">CURIOSITY</h3>
-<p class="text-lg">"What else could I build?" — the question we want them asking</p>
+<div class="p-4 bg-gradient-to-br from-emerald-50 to-emerald-100 dark:from-emerald-900 dark:to-emerald-800 rounded-xl text-center">
+<div class="text-5xl mb-3">🔍</div>
+<h3 class="text-xl font-bold mb-2 text-emerald-600 dark:text-emerald-300">CURIOSITY</h3>
+<p class="text-base">"What else could I build?" — the question we want them asking</p>
 </div>
 
 </div>
@@ -733,26 +737,26 @@ Try saying:
 
 # For Teachers
 
-<div class="space-y-8 my-12">
+<div class="space-y-6 my-8">
 
-<div class="p-8 bg-gradient-to-r from-purple-100 to-blue-100 dark:from-purple-900 dark:to-blue-900 rounded-xl border-l-8 border-purple-500">
+<div class="p-6 bg-gradient-to-r from-emerald-100 to-blue-100 dark:from-emerald-900 dark:to-blue-900 rounded-xl border-l-8 border-emerald-500">
 <div class="text-4xl mb-4">📅</div>
-<div class="text-2xl font-bold mb-3">Pick ONE lesson in the next 2 weeks</div>
-<div class="text-xl">where students <strong>BUILD</strong> instead of consume</div>
+<div class="text-xl font-bold mb-2">Pick ONE lesson in the next 2 weeks</div>
+<div class="text-lg">where students <strong>BUILD</strong> instead of consume</div>
 </div>
 
 <div class="grid grid-cols-2 gap-6">
 
-<div class="p-6 bg-orange-50 dark:bg-orange-900 rounded-xl text-center">
+<div class="p-4 bg-orange-50 dark:bg-orange-900 rounded-xl text-center">
 <div class="text-4xl mb-3">🤝</div>
-<div class="text-xl font-bold mb-2">Right now:</div>
-<div class="text-lg">Find an accountability partner at work</div>
+<div class="text-lg font-bold mb-1">Right now:</div>
+<div class="text-base">Find an accountability partner at work</div>
 </div>
 
-<div class="p-6 bg-green-50 dark:bg-green-900 rounded-xl text-center">
+<div class="p-4 bg-green-50 dark:bg-green-900 rounded-xl text-center">
 <div class="text-4xl mb-3">🔗</div>
-<div class="text-xl font-bold mb-2">Right now:</div>
-<div class="text-lg">Post your app URL in the doc</div>
+<div class="text-lg font-bold mb-1">Right now:</div>
+<div class="text-base">Post your app URL in the doc</div>
 </div>
 
 </div>
@@ -763,35 +767,35 @@ Try saying:
 
 # Resources
 
-<div class="grid grid-cols-2 gap-6 my-12">
+<div class="grid grid-cols-2 gap-4 my-8">
 
-<div class="p-6 bg-yellow-50 dark:bg-yellow-900 rounded-xl">
-<div class="text-4xl mb-3">✏️</div>
-<h3 class="text-xl font-bold mb-2">Brainstorm</h3>
-<div class="text-lg font-mono">makereal.tldraw.com</div>
+<div class="p-4 bg-yellow-50 dark:bg-yellow-900 rounded-xl">
+<div class="text-3xl mb-2">✏️</div>
+<h3 class="text-lg font-bold mb-1">Brainstorm</h3>
+<div class="text-base font-mono">makereal.tldraw.com</div>
 </div>
 
-<div class="p-6 bg-blue-50 dark:bg-blue-900 rounded-xl">
-<div class="text-4xl mb-3">🤖</div>
-<h3 class="text-xl font-bold mb-2">Build</h3>
-<div class="text-lg font-mono">aistudio.google.com</div>
+<div class="p-4 bg-blue-50 dark:bg-blue-900 rounded-xl">
+<div class="text-3xl mb-2">🤖</div>
+<h3 class="text-lg font-bold mb-1">Build</h3>
+<div class="text-base font-mono">aistudio.google.com</div>
 </div>
 
-<div class="p-6 bg-purple-50 dark:bg-purple-900 rounded-xl">
-<div class="text-4xl mb-3">🎨</div>
-<h3 class="text-xl font-bold mb-2">App Gallery</h3>
-<div class="text-lg">AI Studio → App Gallery</div>
+<div class="p-4 bg-emerald-50 dark:bg-emerald-900 rounded-xl">
+<div class="text-3xl mb-2">🎨</div>
+<h3 class="text-lg font-bold mb-1">App Gallery</h3>
+<div class="text-base">AI Studio → App Gallery</div>
 </div>
 
-<div class="p-6 bg-green-50 dark:bg-green-900 rounded-xl">
-<div class="text-4xl mb-3">📚</div>
-<h3 class="text-xl font-bold mb-2">Free Course (2 hrs)</h3>
-<div class="text-lg font-mono">grow.google/ai-for-educators</div>
+<div class="p-4 bg-green-50 dark:bg-green-900 rounded-xl">
+<div class="text-3xl mb-2">📚</div>
+<h3 class="text-lg font-bold mb-1">Free Course (2 hrs)</h3>
+<div class="text-base font-mono">grow.google/ai-for-educators</div>
 </div>
 
 </div>
 
-<div class="mt-8 p-6 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900 rounded-xl text-center text-xl">
+<div class="mt-6 p-4 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-xl text-center text-lg">
 📄 <strong>Today's prompt library + portfolios:</strong> [shared doc link]
 </div>
 
@@ -799,28 +803,28 @@ Try saying:
 
 # Exit Ticket
 
-<div class="space-y-6 my-8">
+<div class="space-y-4 my-6">
 
-<div class="p-6 bg-gradient-to-r from-yellow-100 to-orange-100 dark:from-yellow-900 dark:to-orange-900 rounded-xl border-l-8 border-yellow-500">
-<div class="text-4xl mb-3">💡</div>
-<div class="text-xl font-bold">One thing that clicked</div>
+<div class="p-4 bg-gradient-to-r from-yellow-100 to-orange-100 dark:from-yellow-900 dark:to-orange-900 rounded-xl border-l-8 border-yellow-500">
+<div class="text-3xl mb-2">💡</div>
+<div class="text-lg font-bold">One thing that clicked</div>
 </div>
 
-<div class="p-6 bg-gradient-to-r from-blue-100 to-purple-100 dark:from-blue-900 dark:to-purple-900 rounded-xl border-l-8 border-blue-500">
-<div class="text-4xl mb-3">❓</div>
-<div class="text-xl font-bold">One thing still fuzzy</div>
+<div class="p-4 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-xl border-l-8 border-blue-500">
+<div class="text-3xl mb-2">❓</div>
+<div class="text-lg font-bold">One thing still fuzzy</div>
 </div>
 
-<div class="p-6 bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-xl border-l-8 border-green-500">
-<div class="text-4xl mb-3">🚀</div>
-<div class="text-xl font-bold">What will you build — or have your students build — in the next 2 weeks?</div>
+<div class="p-4 bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-xl border-l-8 border-green-500">
+<div class="text-3xl mb-2">🚀</div>
+<div class="text-lg font-bold">What will you build — or have your students build — in the next 2 weeks?</div>
 </div>
 
 </div>
 
 ---
 
-<div class="h-full flex items-center justify-center bg-gradient-to-br from-purple-600 via-blue-600 to-green-500 text-white">
+<div class="h-full flex items-center justify-center bg-gradient-to-br from-emerald-600 via-blue-600 to-green-500 text-white">
 
 <div class="text-center max-w-4xl p-12">
 

@@ -2,27 +2,25 @@
 
 A 60-minute, hands-on workshop that helps educators shift from content delivery to building real tools with AI. Participants leave with a working classroom tool they can use immediately and a repeatable workflow they can teach to students.
 
-## What this repo contains
-- `slides.md`: Slidev deck (primary presentation)
-- `outline.md`: Talk track and narrative outline
-- `run-of-session.md`: Facilitator run sheet with timing and prompts
-- `worksheet.md`: Participant worksheet + resources
-- `ad-for-talk.md`: Short abstract/description for promotion
-- `images/`: Worksheet screenshots
-- `dist/`: Built slide output (if generated)
+## Repo structure
+- `slides/` — slide decks by date/audience/format
+- `materials/` — facilitator guides, worksheets, outlines
+- `assets/` — shared images/logos
+- `dist/` — built slide outputs (optional)
 
-## Workshop flow (1 hour)
-1. The shift and the arc (teachers as builders)
-2. Mental models for working with AI
-3. Live demo
-4. Build session 1: brainstorm in tldraw
-5. Build session 2: make it real in AI Studio
-6. Publish (optional) + share + reflection
+## Current version
+- `slides/2025-01-09-future-world-alliance-online/slides.md`
+- `materials/2025-01-09-future-world-alliance-online/run-of-session.md`
+- `materials/2025-01-09-future-world-alliance-online/worksheet.md`
+- `materials/2025-01-09-future-world-alliance-online/outline.md`
+- `materials/2025-01-09-future-world-alliance-online/ad-for-talk.md`
+- `materials/2025-01-09-future-world-alliance-online/original-outline.md`
 
 ## Run the slides locally
-This deck is built with Slidev.
+Each version is self-contained. From the version folder:
 
 ```bash
+cd slides/2025-01-09-future-world-alliance-online
 npm install
 npm run dev
 ```
@@ -31,11 +29,12 @@ Slidev will print the local URL in the terminal.
 
 ## Build / export
 ```bash
+cd slides/2025-01-09-future-world-alliance-online
 npm run build
 npm run export
 ```
 
-Note: `npm run build` uses `--base /build-to-learn/` for GitHub Pages.
+Note: This version builds with `--base /build-to-learn/2025-01-09-future-world-alliance-online/` for GitHub Pages.
 
 ## Key links used in the session
 - Brainstorm: https://makereal.tldraw.com

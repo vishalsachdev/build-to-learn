@@ -171,8 +171,8 @@ Once you've built something yourself, consider having your students do the same!
 
 *The same mental models apply: Theory of Mind, Context Engineering, Architect not Coder, Iterate don't Perfect*
 
-[image1]: images/worksheet-image1.png
-[image2]: images/worksheet-image2.png
-[image3]: images/worksheet-image3.png
-[image4]: images/worksheet-image4.png
-[image5]: images/worksheet-image5.png
+[image1]: ../../assets/worksheet-image1.png
+[image2]: ../../assets/worksheet-image2.png
+[image3]: ../../assets/worksheet-image3.png
+[image4]: ../../assets/worksheet-image4.png
+[image5]: ../../assets/worksheet-image5.png
