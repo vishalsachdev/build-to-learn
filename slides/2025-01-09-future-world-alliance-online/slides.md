@@ -4,6 +4,10 @@ theme: apple-basic
 title: 'Build To Learn'
 titleTemplate: '%s - Learn To Build'
 author: 'Vishal Sachdev'
+fonts:
+  sans: 'IBM Plex Sans'
+  serif: 'Spectral'
+  mono: 'IBM Plex Mono'
 info: |
   Building to Learn, Learning to Build
   A workshop about shifting from teachers as content deliverers to teachers as builders.
