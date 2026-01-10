@@ -1,8 +1,8 @@
 ---
 # https://sli.dev/guide/configuration.html
 theme: apple-basic
-title: 'Building to Learn'
-titleTemplate: '%s - Learning to Build'
+title: 'Build To Learn'
+titleTemplate: '%s - Learn To Build'
 author: 'Vishal Sachdev'
 info: |
   Building to Learn, Learning to Build
@@ -19,9 +19,9 @@ transition: slide-left
 # theme: seriph, apple-basic, default, etc
 ---
 
-# Building to Learn
+# Build To Learn
 
-## Learning to Build
+## Learn To Build
 
 <div class="pt-12">
   <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
