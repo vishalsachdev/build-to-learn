@@ -23,9 +23,9 @@ transition: slide-left
 # theme: seriph, apple-basic, default, etc
 ---
 
-<div class="relative h-full flex flex-col items-center justify-center text-center">
-  <div class="text-6xl font-bold leading-tight">Build To Learn</div>
-  <div class="text-3xl mt-2 font-semibold">Learn To Build</div>
+<div class="relative h-full flex flex-col items-center justify-center text-center pb-10">
+  <div class="text-5xl font-bold leading-tight">Build To Learn</div>
+  <div class="text-2xl mt-2 font-semibold">Learn To Build</div>
 
   <div class="mt-8">
     <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
@@ -33,12 +33,12 @@ transition: slide-left
     </span>
   </div>
 
-  <div class="mt-4 text-sm opacity-80 space-y-1">
+  <div class="mt-4 text-xs opacity-80 space-y-1">
     <div><a href="https://chatwithgpt.substack.com/" target="_blank" class="underline">chatwithgpt.substack.com</a></div>
     <div><a href="https://www.linkedin.com/in/vishalsachdev" target="_blank" class="underline">LinkedIn - vishalsachdev</a></div>
   </div>
 
-  <div class="absolute bottom-6 left-0 right-0 text-center text-xs opacity-70">Use &lt;- and -&gt; to navigate</div>
+  <div class="absolute bottom-4 left-0 right-0 text-center text-[10px] opacity-70">Use &lt;- and -&gt; to navigate</div>
 </div>
 
 ---
