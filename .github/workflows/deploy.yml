@@ -28,9 +28,11 @@ jobs:
 
       - name: Install dependencies
         run: npm install
+        working-directory: slides/2025-01-09-future-world-alliance-online
 
       - name: Build Slidev
         run: npm run build
+        working-directory: slides/2025-01-09-future-world-alliance-online
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -38,7 +40,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist'
+          path: 'slides/2025-01-09-future-world-alliance-online/dist'
 
   deploy:
     environment:
