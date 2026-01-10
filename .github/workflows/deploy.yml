@@ -34,13 +34,18 @@ jobs:
         run: npm run build
         working-directory: slides/2025-01-09-future-world-alliance-online
 
+      - name: Stage Pages output
+        run: |
+          mkdir -p public/2025-01-09-future-world-alliance-online
+          cp -R slides/2025-01-09-future-world-alliance-online/dist/* public/2025-01-09-future-world-alliance-online/
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'slides/2025-01-09-future-world-alliance-online/dist'
+          path: 'public'
 
   deploy:
     environment:
