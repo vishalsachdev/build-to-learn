@@ -27,6 +27,10 @@ transition: slide-left
   <div class="text-5xl font-bold leading-tight">Build To Learn</div>
   <div class="text-2xl mt-2 font-semibold">Learn To Build</div>
 
+  <div class="mt-6 text-xl font-semibold text-blue-500 dark:text-blue-300">
+    Illinois Tech · January 13, 2026
+  </div>
+
   <div class="mt-8">
     <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
       @vishalsachdev <carbon:arrow-right class="inline"/>
@@ -61,69 +65,75 @@ Instructors as Content Deliverers → Instructors as Builders
 
 ---
 
+# Today's Agenda
+
+<div class="grid grid-cols-4 gap-4 my-8">
+
+<div class="p-4 bg-gray-100 dark:bg-gray-800 rounded-xl text-center">
+<div class="text-3xl mb-2">🧠</div>
+<div class="text-lg font-bold">Mental Models</div>
+<div class="text-sm text-gray-500">~15 min</div>
+</div>
+
+<div class="p-4 bg-yellow-50 dark:bg-yellow-900 rounded-xl text-center">
+<div class="text-3xl mb-2">✏️</div>
+<div class="text-lg font-bold">Sketch</div>
+<div class="text-sm text-gray-500">8 min hands-on</div>
+</div>
+
+<div class="p-4 bg-blue-50 dark:bg-blue-900 rounded-xl text-center">
+<div class="text-3xl mb-2">🤖</div>
+<div class="text-lg font-bold">Build</div>
+<div class="text-sm text-gray-500">15 min hands-on</div>
+</div>
+
+<div class="p-4 bg-emerald-50 dark:bg-emerald-900 rounded-xl text-center">
+<div class="text-3xl mb-2">🚀</div>
+<div class="text-lg font-bold">Share & Next Steps</div>
+<div class="text-sm text-gray-500">~10 min</div>
+</div>
+
+</div>
+
+<div class="mt-8 p-4 bg-gradient-to-r from-orange-50 to-pink-50 dark:from-orange-900 dark:to-pink-900 rounded-xl text-center text-xl">
+<strong>~50% hands-on</strong> — You'll leave with something you built today
+</div>
+
+---
+
 # The Shift
 
-<div class="grid grid-cols-2 gap-8">
+<div class="grid grid-cols-2 gap-12 items-center my-12">
 
 <div class="p-6 bg-gray-100 dark:bg-gray-800 rounded-lg">
 
 <div class="flex items-center gap-3 mb-4">
-<div class="text-3xl">📉</div>
-<h2 class="text-2xl font-bold">YESTERDAY</h2>
+<div class="text-3xl">❌</div>
+<h2 class="text-2xl font-bold">THE PROBLEM</h2>
 </div>
 
-- 🤖 Assessments AI can game
-- 📺 Instructors deliver content
-- 🛋️ Students consume
-- ⏱️ Shrinking attention spans
+<div class="space-y-4 text-lg">
+<div>🤖 Assessments AI can game</div>
+<div>📺 Instructors deliver content</div>
+<div>🛋️ Students consume</div>
+<div>⏱️ Shrinking attention spans</div>
+</div>
 
 </div>
 
-<div class="p-6 bg-blue-50 dark:bg-blue-900 rounded-lg border-2 border-blue-300">
+<div class="p-8 bg-gradient-to-br from-blue-50 to-emerald-50 dark:from-blue-900 dark:to-emerald-900 rounded-xl border-2 border-blue-300">
 
 <div class="flex items-center gap-3 mb-4">
-<div class="text-3xl">📈</div>
-<h2 class="text-2xl font-bold">TODAY</h2>
+<div class="text-3xl">💡</div>
+<h2 class="text-2xl font-bold">THE NEW PARADIGM</h2>
 </div>
 
-- ⚡ Projects requiring agency
-- 🔧 Instructors BUILD tools
-- 🎨 Students CREATE
-- 🔥 Curiosity & ownership
-
+<div class="space-y-4 text-lg">
+<div>⚡ Projects requiring agency</div>
+<div>🔧 Instructors BUILD tools</div>
+<div>🎨 Students CREATE</div>
+<div>🔥 Curiosity & ownership</div>
 </div>
-
-</div>
-
----
-
-# The Problem
-
-<div class="grid grid-cols-2 gap-12 items-center my-12">
-
-<div class="space-y-8">
-
-<div class="text-4xl">❌</div>
-
-### Traditional assessments?
-**AI can game them.**
-
-<div class="text-4xl">📉</div>
-
-### Students consuming content?
-**Their attention spans are shrinking.**
-
-</div>
-
-<div class="p-8 bg-gradient-to-br from-blue-50 to-emerald-50 dark:from-blue-900 dark:to-emerald-900 rounded-xl">
-
-<div class="text-5xl mb-6">💡</div>
-
-### The New Paradigm
-
-Instructors build tools for their **specific context**
-
-Students become **creators**, not consumers
 
 </div>
 
@@ -131,9 +141,15 @@ Students become **creators**, not consumers
 
 ---
 
-# The Arc
+# The Philosophy
 
-<div class="flex justify-between items-center my-16">
+<div class="text-center p-8 bg-gradient-to-r from-emerald-100 to-blue-100 dark:from-emerald-900 dark:to-blue-900 rounded-2xl border-l-4 border-emerald-500 mb-8">
+<div class="text-3xl font-bold italic leading-relaxed">
+"Not by banning AI,<br/>but by making creation the default."
+</div>
+</div>
+
+<div class="flex justify-between items-center my-12">
   <div class="text-center p-6 rounded-lg hover:bg-blue-50 dark:hover:bg-blue-900 transition">
     <div class="text-7xl mb-4">🔧</div>
     <div class="font-bold text-xl">You become<br/>builders</div>
@@ -148,41 +164,6 @@ Students become **creators**, not consumers
     <div class="text-7xl mb-4">🚀</div>
     <div class="font-bold text-xl">Students become<br/>creators</div>
   </div>
-</div>
-
----
-
-# The Philosophy
-
-<div class="my-12">
-
-<div class="text-center p-8 bg-gradient-to-r from-emerald-100 to-blue-100 dark:from-emerald-900 dark:to-blue-900 rounded-2xl border-l-4 border-emerald-500">
-<div class="text-3xl font-bold italic leading-relaxed">
-"Not by banning AI,<br/>but by making creation the default."
-</div>
-</div>
-
-<div class="mt-12 text-lg leading-relaxed space-y-4">
-
-This is the arc of today:
-
-<div class="grid grid-cols-3 gap-6 mt-8">
-<div class="p-4 bg-blue-50 dark:bg-blue-900 rounded-lg text-center">
-<div class="text-3xl mb-2">1️⃣</div>
-YOU become builders
-</div>
-<div class="p-4 bg-blue-50 dark:bg-blue-900 rounded-lg text-center">
-<div class="text-3xl mb-2">2️⃣</div>
-You teach students to build
-</div>
-<div class="p-4 bg-blue-50 dark:bg-blue-900 rounded-lg text-center">
-<div class="text-3xl mb-2">3️⃣</div>
-Engagement transforms
-</div>
-</div>
-
-</div>
-
 </div>
 
 ---
@@ -227,20 +208,6 @@ Engagement transforms
 
 ---
 
-# Mental Models
-
-<div class="text-xl text-center my-16">
-
-Now let's talk about **HOW** to work with AI effectively.
-
-<div class="text-3xl mt-8 mb-4">🧠</div>
-
-These mental models will serve you **far beyond today**.
-
-</div>
-
----
-
 # The Key Insight
 
 <div class="flex items-center justify-center h-full">
@@ -261,8 +228,7 @@ These mental models will serve you **far beyond today**.
 </div>
 
 <div class="mt-10 text-xl text-center leading-relaxed">
-The skill that makes you great at AI isn't technical.<br/>
-It's <strong>social</strong>. It's about <strong>perspective-taking</strong>.
+It's about <strong>perspective-taking</strong> — understanding what the AI knows and doesn't know.
 </div>
 
 </div>
@@ -460,13 +426,23 @@ Never let "I can't code" stop you — your students won't either 🚀
 
 ---
 
-# LIVE DEMO
+# Live Demo: Mental Models in Action
 
-# Examples
+<div class="flex items-center justify-center h-full">
 
-## Mental models in action
+<div class="text-center max-w-3xl">
 
-Now let me show you these mental models in action with some examples I've built.
+<div class="text-8xl mb-8">🎬</div>
+
+<div class="text-3xl mb-8">Let me show you these mental models in action with examples I've built.</div>
+
+<div class="p-6 bg-blue-50 dark:bg-blue-900 rounded-xl text-xl">
+Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>, and <strong>Iteration</strong> in practice
+</div>
+
+</div>
+
+</div>
 
 ---
 
@@ -574,13 +550,15 @@ Now let me show you these mental models in action with some examples I've built.
 
 - Lowers the "blank page" problem
 - You're drawing, not coding
-- Sketch boxes, buttons, text — rough is fine (mouse-friendly).
-- Use freehand rectangles + labels + arrows (no need for perfect alignment).
-- Share with others
-  - Share a link, export PNG
+- Sketch boxes, buttons, text — rough is fine
+- Use freehand rectangles + labels + arrows
 
-**Open now:**  
-https://excalidraw.com/
+**Workflow:**
+1. Start your own sketch at **excalidraw.com**
+2. When ready, **copy** to our shared session
+3. Export PNG for AI Studio
+
+**Open now:** https://excalidraw.com/
 
 ---
 
@@ -637,9 +615,9 @@ https://excalidraw.com/
 </div>
 
 <div class="mt-4 p-3 bg-blue-100 dark:bg-blue-800 rounded-lg text-center">
-<div class="text-base font-bold mb-1">📋 Track your progress</div>
-<div class="text-sm">Open the shared doc: <span class="underline font-mono">[[SHARED_DOC_LINK]]</span></div>
-<div class="text-sm mt-1">Workshop worksheet: <a href="https://github.com/vishalsachdev/build-to-learn/blob/main/materials/2026-01-13-illinois-tech/worksheet.md" target="_blank" class="underline font-mono">materials/2026-01-13-illinois-tech/worksheet.md</a></div>
+<div class="text-base font-bold mb-1">📋 Share your sketches</div>
+<div class="text-sm">Shared Excalidraw: <span class="underline font-mono">[[SHARED_EXCALIDRAW_LINK]]</span></div>
+<div class="text-sm mt-1">Worksheet: <a href="https://github.com/vishalsachdev/build-to-learn/blob/main/materials/2026-01-13-illinois-tech/worksheet.md" target="_blank" class="underline font-mono">materials/.../worksheet.md</a></div>
 </div>
 
 ---
@@ -688,53 +666,35 @@ Try saying:
 
 ---
 
-# The Multiplier
+# The Multiplier Effect
 
-<div class="flex items-center justify-center h-full">
+<div class="grid grid-cols-2 gap-8 items-center my-8">
 
 <div class="text-center">
-
-<div class="p-6 bg-blue-50 dark:bg-blue-900 rounded-2xl mb-8">
+<div class="p-6 bg-blue-50 dark:bg-blue-900 rounded-2xl">
 <div class="text-4xl mb-3">👨‍🏫</div>
-<div class="text-2xl font-bold">You — an educator — just built something</div>
-<div class="text-5xl font-bold text-blue-600 dark:text-blue-300 my-3">in an hour</div>
+<div class="text-xl font-bold">You — an educator — just built something</div>
+<div class="text-4xl font-bold text-blue-600 dark:text-blue-300 my-3">in an hour</div>
 </div>
 
-<div class="text-5xl mb-6">⬇️</div>
+<div class="text-4xl my-4">⬇️</div>
 
 <div class="p-6 bg-gradient-to-r from-emerald-50 to-pink-50 dark:from-emerald-900 dark:to-pink-900 rounded-2xl">
-<div class="text-2xl font-bold mb-3">Now imagine</div>
-<div class="text-4xl font-bold text-emerald-600 dark:text-emerald-300">your students doing this</div>
-<div class="text-6xl mt-4">🚀</div>
+<div class="text-xl font-bold mb-2">Now imagine your students doing this</div>
+<div class="text-5xl">🚀</div>
+</div>
 </div>
 
+<div class="text-center">
+<div class="p-6 bg-gradient-to-br from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-2xl">
+<div class="text-xl mb-4">If you teach <span class="text-4xl font-bold text-blue-600 dark:text-blue-300">30 students</span> to be builders...</div>
+
+<div class="text-3xl my-4">×</div>
+
+<div class="text-xl mb-2">Each creates one tool =</div>
+<div class="text-5xl font-bold text-green-600 dark:text-green-300">30 new</div>
+<div class="text-lg mt-2">learning resources — created by the people who need them most</div>
 </div>
-
-</div>
-
----
-
-# Scale the Impact
-
-<div class="flex items-center justify-center h-full">
-
-<div class="text-center max-w-3xl">
-
-<div class="text-2xl mb-6">If you teach</div>
-
-<div class="p-6 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-2xl mb-6">
-<div class="text-6xl font-bold text-blue-600 dark:text-blue-300">30 students</div>
-<div class="text-xl mt-3">to be builders too</div>
-</div>
-
-<div class="text-4xl my-6">×</div>
-
-<div class="p-6 bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-2xl">
-<div class="text-xl mb-3">Each creates one tool =</div>
-<div class="text-6xl font-bold text-green-600 dark:text-green-300">30 new</div>
-<div class="text-2xl mt-3">learning resources — created by the people who need them most</div>
-</div>
-
 </div>
 
 </div>
@@ -828,7 +788,7 @@ Try saying:
 </div>
 
 <div class="mt-6 p-4 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-xl text-center text-lg">
-📄 <strong>Today's prompt library + portfolios:</strong> <span class="font-mono underline">[[SHARED_DOC_LINK]]</span>
+🎨 <strong>Shared Excalidraw:</strong> <span class="font-mono underline">[[SHARED_EXCALIDRAW_LINK]]</span>
 </div>
 
 ---

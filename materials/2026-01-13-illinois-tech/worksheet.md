@@ -12,7 +12,7 @@ Read \- [https://chatwithgpt.substack.com/](https://chatwithgpt.substack.com/)
 Connect \- [https://www.linkedin.com/in/vishalsachdev](https://www.linkedin.com/in/vishalsachdev)   
 Things I have built \- [https://github.com/vishalsachdev?tab=repositories](https://github.com/vishalsachdev?tab=repositories) 
 
-**Shared doc:** [[SHARED_DOC_LINK]]
+**Shared Excalidraw:** [[SHARED_EXCALIDRAW_LINK]]
 
 # **🧠 Mental Models**
 
@@ -51,23 +51,21 @@ First prompt/output won't be right — that's expected. Describe what's wrong wi
 | **AI Studio** | Build it with AI | [aistudio.google.com](https://aistudio.google.com) |
 | **GitHub** *(optional)* | Save & publish live | [github.com](https://github.com) |
 
-**Sketch setup (mouse-friendly)** 
+## Excalidraw Workflow
 
-**![][image1]**
+**Your personal sketch:** Start at [excalidraw.com](https://excalidraw.com/) — this is your private canvas to brainstorm freely.
 
-Get free API key from **AI Studio at Google** \- Use personal gmail account, as work accounts might be blocked
+**Shared session:** Once you have a sketch you're happy with, copy it to our shared Excalidraw session:
+> **Shared Excalidraw:** [[SHARED_EXCALIDRAW_LINK]]
 
-[https://aistudio.google.com/](https://aistudio.google.com/)
+**How to share your sketch:**
+1. Select your drawing (Ctrl/Cmd+A to select all)
+2. Copy (Ctrl/Cmd+C)
+3. Open the shared Excalidraw link above
+4. Paste (Ctrl/Cmd+V) in an empty area
+5. Add your name next to your sketch!
 
-**![][image2]**
-
-**![][image3]**
-
-**![][image4]**
-
-**![][image5]**
-
-**The Flow:** Excalidraw sketch → export PNG → AI Studio Build mode → iterate → push to GitHub → enable Pages → live URL
+**The Flow:** Excalidraw sketch → export PNG → AI Studio Build mode → iterate → (optional) push to GitHub → enable Pages → live URL
 
 # **💡 Build Session 1: Brainstorm Ideas**
 
@@ -83,21 +81,29 @@ Pick your own idea/pain point or look at the ideas below.
 
 ### 
 
-**Sketch** Draws the interface  
-**Challenge yourself/ chat with the bot:** "What's missing? What would confuse me/a user/ a student?"  
-**Document your work for your portfolio:** Captures ideas, takes screenshots
+**Sketch** — Draw the interface
+**Challenge yourself:** "What's missing? What would confuse a user/student?"
+**Share** — Copy your sketch to the shared Excalidraw session (see link above)
 
 **Mouse-friendly sketch checklist (60 seconds):**
 1. Draw 3–5 big boxes (Header / Inputs / Actions / Output / Help)
 2. Label each box with short text (no perfect alignment needed)
 3. Add arrows for flow (input → action → output)
-4. Note 1 error state (“What if blank input?”)
+4. Note 1 error state ("What if blank input?")
+5. **Copy to shared Excalidraw** and add your name!
 
 # **🔨 Build Session 2: Prompts That Work**
 
 ### **Starting your build with** [aistudio.google.com](https://aistudio.google.com)
 
-*Take the output from TLDRAW(typically an image export), and supplement with instructions/context below and feed it to AI Studio on Google. Use the ‘build’ feature*
+**Steps:**
+1. Go to [aistudio.google.com](https://aistudio.google.com) (use personal Gmail if work account is blocked)
+2. Click **"Build"** in the top menu
+3. Export your Excalidraw sketch as PNG, or describe what you want
+4. Paste the image or type your description
+5. Iterate with follow-up messages!
+
+**Starter prompt template:**
 
 *"Build a \[tool type\] for \[course level / modality\] students that \[what it does\]. Include \[specific features\] and consider accessibility."*
 
@@ -131,7 +137,7 @@ Pick your own idea/pain point or look at the ideas below.
 
 # **🔗 Our Portfolio Links**
 
-**Shared doc:** [[SHARED_DOC_LINK]]
+**Shared Excalidraw:** [[SHARED_EXCALIDRAW_LINK]]
 
 | Name | Tool Built | Live URL |
 | :---- | :---- | :---- |
@@ -180,9 +186,3 @@ Once you've built something yourself, consider having your students do the same!
 4. **Share outcomes** — Have students demo their tools to each other
 
 *The same mental models apply: Theory of Mind, Context Engineering, Architect not Coder, Iterate don't Perfect*
-
-[image1]: ../../assets/worksheet-image1.png
-[image2]: ../../assets/worksheet-image2.png
-[image3]: ../../assets/worksheet-image3.png
-[image4]: ../../assets/worksheet-image4.png
-[image5]: ../../assets/worksheet-image5.png
