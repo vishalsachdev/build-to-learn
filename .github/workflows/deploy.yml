@@ -26,18 +26,34 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install dependencies
-        run: npm install
-        working-directory: slides/2025-01-09-future-world-alliance-online
-
-      - name: Build Slidev
-        run: npm run build
-        working-directory: slides/2025-01-09-future-world-alliance-online
-
-      - name: Stage Pages output
+      - name: Build Slidev decks
         run: |
-          mkdir -p public/2025-01-09-future-world-alliance-online
-          cp -R slides/2025-01-09-future-world-alliance-online/dist/* public/2025-01-09-future-world-alliance-online/
+          set -euo pipefail
+
+          mkdir -p public
+          touch public/.nojekyll
+
+          for dir in slides/*; do
+            if [ ! -d "$dir" ]; then
+              continue
+            fi
+
+            if [ ! -f "$dir/package.json" ]; then
+              continue
+            fi
+
+            slug="$(basename "$dir")"
+            echo "Building Slidev deck: $slug"
+
+            (
+              cd "$dir"
+              npm ci
+              npm run build
+            )
+
+            mkdir -p "public/$slug"
+            cp -R "$dir/dist/"* "public/$slug/"
+          done
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

@@ -34,7 +34,7 @@ npm run build
 npm run export
 ```
 
-Note: This version builds with `--base /build-to-learn/2025-01-09-future-world-alliance-online/` for GitHub Pages.
+Note: Each deck’s `build` script should set a versioned base path like `--base /build-to-learn/<deck-slug>/` for GitHub Pages.
 
 ## Key links used in the session
 - Brainstorm: https://makereal.tldraw.com

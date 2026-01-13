@@ -3,9 +3,8 @@
   "type": "module",
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build --base /build-to-learn/",
-    "export": "slidev export",
-    "new:talk": "node scripts/new-talk.mjs"
+    "build": "slidev build --base /build-to-learn/2026-01-13-illinois-tech/",
+    "export": "slidev export"
   },
   "dependencies": {
     "@slidev/cli": "^0.50.0",
