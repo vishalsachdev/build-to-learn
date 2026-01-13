@@ -47,7 +47,7 @@ jobs:
 
             (
               cd "$dir"
-              npm ci
+              npm install --no-audit --no-fund
               npm run build
             )
 
