@@ -1,8 +1,8 @@
-# LLTLC 2026 Proposal
+# CITL Workshop Proposal
 
-**Event:** Lincoln Legacy Teaching and Learning Community (LLTLC)
-**Date:** May 18-19, 2026
-**Location:** Illini Union, Urbana, IL
+**Event:** CITL Workshop — Center for Innovation in Teaching & Learning
+**Date:** February 20, 2026
+**Location:** Urbana, IL
 **Format:** Workshop (50 min)
 **Proposal submitted:** January 22, 2026
 
@@ -16,7 +16,7 @@ After attending this session participants will know about **how AI tools can shi
 
 ## 10. Short Session Abstract (100 words)
 
-In an AI-first world, traditional assessments can be gamed. This hands-on workshop introduces a new paradigm: building to learn. Participants will experience a complete sketch-to-deployment workflow using free tools (Excalidraw, Google AI Studio, GitHub Pages) to create a functional teaching tool in under an hour—no coding required. You'll leave with a deployed portfolio piece and practical mental models for AI collaboration: theory of mind, context engineering, and problem-first design. Most importantly, you'll gain a framework for helping students tackle larger, more meaningful challenges by making creation the default mode of learning.
+In an AI-first world, traditional assessments can be gamed. This hands-on workshop introduces a new paradigm: building to learn. Participants will experience a complete sketch-to-deployment workflow using free tools (Excalidraw, Google AI Studio, Netlify Drop) to create a functional teaching tool in under an hour—no coding required. You'll leave with a deployed portfolio piece and practical mental models for AI collaboration: theory of mind, context engineering, and problem-first design. Most importantly, you'll gain a framework for helping students tackle larger, more meaningful challenges by making creation the default mode of learning.
 
 ---
 
@@ -43,7 +43,7 @@ Participants will build their own tool using three entry paths:
 
 3. **Solve Your Pain Point** - Identify what takes too long, what students struggle with, or what's tedious every week—then build that.
 
-Participants can sketch digitally (Excalidraw) or on paper (photo upload). AI Studio accepts any image. The output is a single HTML+JS page that can be hosted free forever on GitHub Pages.
+Participants can sketch digitally (Excalidraw) or on paper (photo upload). AI Studio accepts any image. The output is a single HTML+JS page published instantly via Netlify Drop.
 
 **Share & Feedback (5 min)**
 Participants share their deployed URLs in a collaborative document, explore what others built, and leave brief feedback. This models the iteration loop we want students to experience.
@@ -51,7 +51,7 @@ Participants share their deployed URLs in a collaborative document, explore what
 **Takeaways & Next Steps**
 Participants leave with:
 - A deployed teaching tool they built themselves
-- A repeatable workflow (Sketch → AI Studio → GitHub Pages)
+- A repeatable workflow (Sketch → AI Studio Chat mode → Netlify Drop)
 - Mental models for effective AI collaboration
 - A framework for designing student assignments around building
 - Accountability partners and a shared resource document

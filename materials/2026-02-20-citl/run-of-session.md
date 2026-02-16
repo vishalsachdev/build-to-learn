@@ -1,8 +1,8 @@
 # Run of Session: Building to Learn (50 min)
 
 ## Overview
-**Event:** LLTLC 2026 — Lincoln Legacy Teaching and Learning Community
-**Date:** May 18-19, 2026
+**Event:** CITL Workshop — Center for Innovation in Teaching & Learning
+**Date:** February 20, 2026
 **Duration:** 50 minutes
 **Format:** Workshop with hands-on building
 **Outcome:** Participants leave with a working single-page HTML+JS tool they can use in their next class session
@@ -82,7 +82,7 @@
 **The flow:**
 1. **Excalidraw** (https://excalidraw.com/) — Sketch your idea
 2. **AI Studio** (aistudio.google.com) — Make it real
-3. **GitHub** — Save and publish
+3. **Netlify Drop** (app.netlify.com/drop) — Publish instantly
 
 **Have them open Excalidraw NOW:**
 > "Open https://excalidraw.com/ right now. Don't wait."
@@ -130,11 +130,11 @@
 
 **Instructions:**
 1. Upload your image (screenshot, Excalidraw PNG, or paper photo)
-2. Open aistudio.google.com → Build mode
+2. Open aistudio.google.com (Chat mode — the default)
 3. Paste image + describe what you want
 4. Iterate!
 
-**Output:** Single HTML+JS page that can be hosted free forever on GitHub Pages.
+**Output:** Single HTML+JS page → publish instantly via Netlify Drop (app.netlify.com/drop).
 
 **Iteration prompts to suggest:**
 - "Make the button bigger"

@@ -4,8 +4,8 @@
 
 # **📌 Logistics**
 
-**Event:** LLTLC 2026 — Lincoln Legacy Teaching and Learning Community
-**Date:** May 18-19, 2026
+**Event:** CITL Workshop — Center for Innovation in Teaching & Learning
+**Date:** February 20, 2026
 **Time:** 50-minute workshop
 **Audience:** Faculty & instructional designers
 
@@ -51,7 +51,7 @@ First prompt/output won't be right — that's expected. Describe what's wrong wi
 | :---- | :---- | :---- |
 | **Excalidraw** | Sketch your idea visually | [excalidraw.com](https://excalidraw.com/) |
 | **AI Studio** | Build it with AI | [aistudio.google.com](https://aistudio.google.com) |
-| **GitHub** *(optional)* | Save & publish live | [github.com](https://github.com) |
+| **Netlify Drop** | Publish live instantly | [app.netlify.com/drop](https://app.netlify.com/drop) |
 
 ## Sketching Options (Pick One)
 
@@ -76,7 +76,7 @@ First prompt/output won't be right — that's expected. Describe what's wrong wi
 **Shared session:** Once you have something, share it in our shared Excalidraw:
 > **Shared Excalidraw:** [[SHARED_EXCALIDRAW_LINK]]
 
-**The Flow:** Sketch/screenshot → AI Studio Build mode → iterate → single HTML+JS page → (optional) GitHub Pages
+**The Flow:** Sketch/screenshot → AI Studio Chat mode → iterate → single HTML+JS page → Netlify Drop
 
 # **💡 Build Session 1: Three Ways to Start**
 
@@ -128,14 +128,14 @@ Then build THAT.
 
 **Steps:**
 1. Go to [aistudio.google.com](https://aistudio.google.com) (use personal Gmail if work account is blocked)
-2. Click **"Build"** in the top menu
+2. Use the default **Chat** interface (no need to switch modes)
 3. Export your Excalidraw sketch as PNG, or describe what you want
 4. Paste the image or type your description
 5. Iterate with follow-up messages!
 
 **Starter prompt template:**
 
-*"Build a \[tool type\] for \[course level / modality\] students that \[what it does\]. Include \[specific features\] and consider accessibility."*
+*"Build a \[tool type\] for \[course level / modality\] students that \[what it does\]. Include \[specific features\] and consider accessibility. Output a single HTML file with inline CSS and JS — no external dependencies, vanilla JS only."*
 
 ### **Iteration prompts:**
 
@@ -152,27 +152,28 @@ Then build THAT.
 * Add context: "This is for a first-year course with varied preparation and accessibility needs"  
 * Ask yourself: "What context is the AI missing?"
 
-# **🚀 (Optional) Publishing to GitHub Pages**
+# **🚀 Publishing with Netlify Drop**
 
-*This step is optional — you can skip it and still have a working tool!*
-
-**What you get:** A single HTML+JS page hosted **free forever** on GitHub Pages.
+**What you get:** A live URL for your single-page HTML+JS tool in seconds.
 
 **Steps:**
-1. In AI Studio, click the GitHub icon (top right)
-2. Authorize your GitHub account
-3. Create new repo: **course-tools**
-4. Push your code
-5. Go to github.com → your repo → Settings → Pages
-6. Deploy from **main** branch
-7. Wait 1-2 minutes
-8. Your app is live at: **username.github.io/course-tools**
+1. Copy the HTML code from AI Studio (click the copy icon on the code block)
+2. Save it as `index.html` on your computer
+3. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
+4. Drag and drop your `index.html` file onto the page
+5. Your app is live! Copy the URL and share it.
 
 **Why single-page HTML+JS?**
 - No server required
-- Free hosting forever
+- Free hosting
 - Shareable URL
 - Works on any device
+
+**Want permanence?** GitHub Pages gives you free hosting forever — great as a follow-up step at home:
+1. Create a free GitHub account at [github.com](https://github.com)
+2. Create a new repo, upload your `index.html`
+3. Go to Settings → Pages → Deploy from main branch
+4. Your app lives at: **username.github.io/repo-name**
 
 # **🔗 Our Portfolio Links**
 

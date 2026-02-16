@@ -1,8 +1,8 @@
 # Building to Learn, Learning to Build
 
-**Event:** Lincoln Legacy Teaching and Learning Community (LLTLC)
-**Date:** May 18-19, 2026
-**Location:** Illini Union, Urbana, IL
+**Event:** CITL Workshop — Center for Innovation in Teaching & Learning
+**Date:** February 20, 2026
+**Location:** Urbana, IL
 **Format:** Workshop (50 min)
 **Proposal submitted:** January 22, 2026 ✓
 
@@ -179,7 +179,7 @@ You're not a coder today. You're a designer translating needs into specification
 
 ### Slide 12: Public Deployment = Accountability = Learning (NEW)
 
-**Why GitHub Pages (or any public URL) is non-negotiable:**
+**Why Netlify Drop (or any public URL) is non-negotiable:**
 
 | Local Only | Public URL |
 |---|---|
@@ -195,6 +195,8 @@ When you deploy publicly:
 4. Your version history shows learning
 
 **For your students**: This becomes your portfolio. Not grades. Not credentials. Real work people used.
+
+**Netlify Drop** = drag & drop, live in seconds. **GitHub Pages** = permanence (great follow-up at home).
 
 ---
 
@@ -225,7 +227,7 @@ Make these REAL projects you use, not generic examples.
 
 ## Slide 15: Your Tools
 
-Excalidraw → Google AI Studio → GitHub
+Excalidraw → Google AI Studio → Netlify Drop
 
 Each tool has a purpose. You're not learning software. You're moving through a workflow.
 
@@ -247,10 +249,10 @@ STEP 2: AI Studio
 
 ↓
 
-STEP 3: GitHub
-- Save your work
-- Publish live
-- **Create your portfolio**
+STEP 3: Netlify Drop
+- Drag & drop your HTML file
+- Live URL in seconds
+- app.netlify.com/drop
 
 ---
 
@@ -283,7 +285,7 @@ For people who struggle to ideate from scratch:
 - No blank page problem — you have a starting point
 - Shows the AI exactly what you want
 - Your annotations = your customizations
-- Output: single HTML+JS page you can host free on GitHub Pages
+- Output: single HTML+JS page you can publish via Netlify Drop
 
 ---
 
@@ -312,7 +314,7 @@ Best for: "I have a specific problem"
 - What do students struggle with?
 - What's tedious every week?
 
-**All outputs: Single HTML+JS page, free to host on GitHub Pages forever.**
+**All outputs: Single HTML+JS page → publish via Netlify Drop in seconds.**
 
 ---
 
@@ -323,7 +325,7 @@ Best for: "I have a specific problem"
 The Workflow:
 
 1. Export Excalidraw sketch as PNG
-2. Open aistudio.google.com → Build mode
+2. Open aistudio.google.com (Chat mode — the default)
 3. Paste image + describe what you want
 4. **Iterate in plain English**
 
@@ -347,21 +349,21 @@ When something isn't working:
 
 **Before we wrap, push your work live.**
 
-In AI Studio: Click GitHub icon (top right)
-1. Authorize your GitHub account
-2. Create new repo: **course-tools**
-3. Push your code
-4. Go to Settings → Pages
-5. Deploy from main branch
-6. Wait 1-2 minutes
-
-**Your app is now live at: username.github.io/course-tools**
+**Netlify Drop (instant — do this now):**
+1. Copy the HTML code from AI Studio
+2. Save as `index.html` on your computer
+3. Go to [app.netlify.com/drop](https://app.netlify.com/drop)
+4. Drag and drop your file
+5. Your app is live! Copy the URL.
 
 This isn't just saving your work.
 You've created a **portfolio piece**.
 Something real. Something deployed. Something users can access.
 
 This is the new quality signal.
+
+**GitHub Pages (for permanence — take-home step):**
+Create a repo, upload your `index.html`, enable Pages → free hosting forever at username.github.io/repo-name.
 
 ---
 
@@ -444,7 +446,8 @@ excalidraw.com
 aistudio.google.com
 
 **Deploy**
-github.com + GitHub Pages
+app.netlify.com/drop (instant)
+github.com + GitHub Pages (permanence)
 
 **Inspiration**
 aistudio.google.com/gallery

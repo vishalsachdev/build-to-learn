@@ -28,7 +28,7 @@ transition: slide-left
   <div class="text-2xl mt-2 font-semibold">Learn To Build</div>
 
   <div class="mt-6 text-xl font-semibold text-blue-500 dark:text-blue-300">
-    LLTLC · May 18, 2026
+    CITL Workshop · February 20, 2026
   </div>
 
   <div class="mt-8">
@@ -506,17 +506,18 @@ Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>
 
 </div>
 
-<div class="text-center p-6 bg-gradient-to-br from-green-50 to-teal-50 dark:from-green-900 dark:to-teal-900 rounded-xl border-2 border-green-300 border-dashed opacity-80">
+<div class="text-center p-6 bg-gradient-to-br from-green-50 to-teal-50 dark:from-green-900 dark:to-teal-900 rounded-xl border-2 border-green-300">
 
 <div class="text-5xl mb-4">🚀</div>
-<div class="text-3xl font-bold mb-2">STEP 3 <span class="text-base font-normal">(optional)</span></div>
-<div class="text-2xl font-bold mb-4 text-green-600 dark:text-green-300">GitHub Pages</div>
-<div class="text-xl font-bold mb-3">Publish for free</div>
+<div class="text-3xl font-bold mb-2">STEP 3</div>
+<div class="text-2xl font-bold mb-4 text-green-600 dark:text-green-300">Netlify Drop</div>
+<div class="text-xl font-bold mb-3">Publish instantly</div>
 <ul class="text-left text-base space-y-1">
-<li>✓ Single HTML+JS page</li>
-<li>✓ Free hosting forever</li>
-<li>✓ Shareable URL</li>
+<li>✓ Drag & drop your HTML file</li>
+<li>✓ Live URL in seconds</li>
+<li>✓ app.netlify.com/drop</li>
 </ul>
+<div class="text-left text-xs mt-2 opacity-70">For permanence: GitHub Pages</div>
 
 </div>
 
@@ -691,10 +692,11 @@ Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>
 
 ---
 
-# AI Studio: Build Mode
+# AI Studio: Chat Mode
 
 - Export Excalidraw sketch as PNG (or describe it)
-- Open aistudio.google.com → Build mode
+- Open aistudio.google.com (Chat mode — the default)
+- Ask for a **single HTML file** with inline CSS and JS
 - Paste image or describe what you want
 - Iterate: "Make the button bigger" / "Add a score counter" / "Add AI features"
 
