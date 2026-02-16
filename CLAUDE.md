@@ -48,13 +48,13 @@ Push to `main`. The GitHub Actions workflow builds every deck under `slides/*` a
 
 ## Current Focus
 
-Preparing LLTLC 2026 (May 18-19) workshop deck.
+Preparing CITL Workshop (Feb 20, 2026) — deck is ready, needs live-run rehearsal.
 
 ## Upcoming Talks
 
 | Date | Event | Slug | Status |
 |------|-------|------|--------|
-| 2026-02-20 | CITL Workshop (Urbana, IL) | `2026-02-20-citl` | Scaffolded |
+| 2026-02-20 | CITL Workshop (Urbana, IL) | `2026-02-20-citl` | Ready |
 | 2026-05-18 | LLTLC (Urbana, IL) | `2026-05-18-lltlc` | Proposal submitted |
 
 ## Design Decisions
@@ -66,14 +66,14 @@ Participants struggle to ideate what to build from scratch. Solutions implemente
 3. **Three paths** instead of one: Screenshot+Remix (fastest), Pick a Template, Solve Your Pain Point
 
 ### Output constraint (2026-01-22)
-Restricted to **single HTML+JS page** for GitHub Pages deployment:
-- No server required
-- Free hosting forever
-- Shareable URL
-- Works on any device
+Restricted to **single HTML+JS page** with inline CSS/JS, no external dependencies, vanilla JS only.
+
+### Chat mode + Netlify Drop (2026-02-16)
+Switched from AI Studio Build mode (generates React) to **Chat mode** (generates single HTML files). Replaced GitHub Pages as primary deploy with **Netlify Drop** (drag & drop, live in seconds). GitHub Pages kept as optional "for permanence" follow-up.
 
 ## Session Log
 
 | Date | Summary |
 |------|---------|
 | 2026-01-22 | Created LLTLC deck, submitted proposal, redesigned ideation flow with screenshot+remix path |
+| 2026-02-16 | Updated CITL deck: LLTLC→CITL branding, Build→Chat mode, GitHub Pages→Netlify Drop |
