@@ -1,0 +1,16 @@
+{
+  "name": "build-to-learn",
+  "type": "module",
+  "scripts": {
+    "dev": "slidev",
+    "build": "slidev build --base /build-to-learn/2026-05-18-lltlc/",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.50.0",
+    "@slidev/theme-apple-basic": "^0.25.1"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}

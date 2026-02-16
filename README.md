@@ -10,10 +10,20 @@ A 60-minute, hands-on workshop that helps educators shift from content delivery 
 
 ## Live Slide Decks
 
+- **CITL Workshop (Feb 20, 2026)**: https://vishalsachdev.github.io/build-to-learn/2026-02-20-citl/
+- **LLTLC (May 18, 2026)**: https://vishalsachdev.github.io/build-to-learn/2026-05-18-lltlc/
 - **Illinois Tech (Jan 13, 2026)**: https://vishalsachdev.github.io/build-to-learn/2026-01-13-illinois-tech/
-- **Future World Alliance (Jan 9, 2025)**: https://vishalsachdev.github.io/build-to-learn/2025-01-09-future-world-alliance-online/
+- **Future World Alliance (Jan 9, 2026)**: https://vishalsachdev.github.io/build-to-learn/2025-01-09-future-world-alliance-online/
 
 ## Talk Versions
+
+### 2026-02-20: CITL Workshop (Urbana, IL)
+- `slides/2026-02-20-citl/slides.md`
+- `materials/2026-02-20-citl/`
+
+### 2026-05-18: LLTLC (Urbana, IL)
+- `slides/2026-05-18-lltlc/slides.md`
+- `materials/2026-05-18-lltlc/`
 
 ### 2026-01-13: Illinois Tech
 - `slides/2026-01-13-illinois-tech/slides.md`
@@ -48,8 +58,9 @@ Note: Each deck's `build` script sets a versioned base path like `--base /build-
 
 ## Key links used in the session
 - Sketch: https://excalidraw.com
-- Build: https://aistudio.google.com
-- GitHub Pages: https://pages.github.com
+- Build: https://aistudio.google.com (Chat mode for single HTML files)
+- Publish: https://app.netlify.com/drop (drag & drop, instant)
+- Permanent hosting: https://pages.github.com
 - Free course: https://grow.google/ai-for-educators
 - Shared Excalidraw session (create before workshop): [Provide to participants]
 

@@ -43,3 +43,37 @@ npm run build
 
 ### Deploy
 Push to `main`. The GitHub Actions workflow builds every deck under `slides/*` and publishes them to GitHub Pages.
+
+---
+
+## Current Focus
+
+Preparing LLTLC 2026 (May 18-19) workshop deck.
+
+## Upcoming Talks
+
+| Date | Event | Slug | Status |
+|------|-------|------|--------|
+| 2026-02-20 | CITL Workshop (Urbana, IL) | `2026-02-20-citl` | Scaffolded |
+| 2026-05-18 | LLTLC (Urbana, IL) | `2026-05-18-lltlc` | Proposal submitted |
+
+## Design Decisions
+
+### Ideation speed problem (2026-01-22)
+Participants struggle to ideate what to build from scratch. Solutions implemented:
+1. **Screenshot + Remix** as the fastest default path — take a screenshot of any website/PDF/app, paste into Excalidraw, annotate with changes, upload to AI Studio
+2. **Paper sketch + phone photo** as a low-friction alternative to digital sketching
+3. **Three paths** instead of one: Screenshot+Remix (fastest), Pick a Template, Solve Your Pain Point
+
+### Output constraint (2026-01-22)
+Restricted to **single HTML+JS page** for GitHub Pages deployment:
+- No server required
+- Free hosting forever
+- Shareable URL
+- Works on any device
+
+## Session Log
+
+| Date | Summary |
+|------|---------|
+| 2026-01-22 | Created LLTLC deck, submitted proposal, redesigned ideation flow with screenshot+remix path |
