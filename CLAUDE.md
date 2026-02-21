@@ -71,6 +71,10 @@ Restricted to **single HTML+JS page** with inline CSS/JS, no external dependenci
 ### Chat mode + Netlify Drop (2026-02-16)
 Switched from AI Studio Build mode (generates React) to **Chat mode** (generates single HTML files). Replaced GitHub Pages as primary deploy with **Netlify Drop** (drag & drop, live in seconds). GitHub Pages kept as optional "for permanence" follow-up.
 
+## Post-Talk Feedback
+
+After delivering a talk, fill in `materials/<slug>/feedback.md` with facilitator reflections. Then distill recurring patterns into `INSIGHTS.md` at the repo root. New talks created via `npm run new:talk` automatically get a blank `feedback.md`.
+
 ## Session Log
 
 | Date | Summary |
