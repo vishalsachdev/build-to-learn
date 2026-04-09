@@ -54,9 +54,9 @@ transition: slide-left
 <div>
 
 <div class="space-y-4 text-lg">
-<div><strong>Day job:</strong> I teach databases and data analytics at Gies</div>
+<div><strong>Day job:</strong> I run a 3D printing lab and an analytics masters program at Gies</div>
 <div><strong>Side quest:</strong> I build things with AI — a lot of things</div>
-<div><strong>Background:</strong> 15 years in industry (startups, consulting, product) before academia</div>
+<div><strong>Background:</strong> 7 years in industry, 18 years in academia</div>
 </div>
 
 <div class="mt-8 p-4 bg-blue-50 dark:bg-blue-900 rounded-lg text-lg">
