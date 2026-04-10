@@ -78,6 +78,6 @@ After delivering a talk, fill in `materials/<slug>/feedback.md` with facilitator
 
 ## Session Log
 
-### 2026-04-09
-- Completed: Created Research Park Data + AI User Group deck (builder-focused adaptation of Build To Learn). 20 slides: GRIT-CART framework, Three Shifts, Three Stances, four project demos (Canvas MCP, IlliniHunt, WhatsApp Bot, MakerLab), live build segment, context engineering. Added QR code for Substack. Deployed to GitHub Pages.
-- Next: Deliver talk April 10. Fill in `materials/2026-research-park-ai-ds/feedback.md` post-talk. Prepare LLTLC deck (May 18).
+### 2026-04-10
+- Completed: Delivered Research Park talk. Captured feedback: CLI demos resonated, "not a coder" framing was the hook, MCP/CLI/skills triad (meeting-prep/debrief example) clicked with audience. Saved talk conventions to auto memory (demo format, folder organization).
+- Next: Fill in `materials/2026-research-park-ai-ds/feedback.md`. Prepare LLTLC deck (May 18).
