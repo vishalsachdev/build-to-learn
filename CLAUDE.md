@@ -48,13 +48,14 @@ Push to `main`. The GitHub Actions workflow builds every deck under `slides/*` a
 
 ## Current Focus
 
-Preparing CITL Workshop (Feb 20, 2026) — deck is ready, needs live-run rehearsal.
+Research Park deck delivered. Next up: LLTLC (May 18).
 
 ## Upcoming Talks
 
 | Date | Event | Slug | Status |
 |------|-------|------|--------|
-| 2026-02-20 | CITL Workshop (Urbana, IL) | `2026-02-20-citl` | Ready |
+| 2026-02-20 | CITL Workshop (Urbana, IL) | `2026-02-20-citl` | Delivered |
+| 2026-04-10 | Research Park Data + AI User Group | `2026-research-park-ai-ds` | Delivered |
 | 2026-05-18 | LLTLC (Urbana, IL) | `2026-05-18-lltlc` | Proposal submitted |
 
 ## Design Decisions
@@ -77,7 +78,6 @@ After delivering a talk, fill in `materials/<slug>/feedback.md` with facilitator
 
 ## Session Log
 
-| Date | Summary |
-|------|---------|
-| 2026-01-22 | Created LLTLC deck, submitted proposal, redesigned ideation flow with screenshot+remix path |
-| 2026-02-16 | Updated CITL deck: LLTLC→CITL branding, Build→Chat mode, GitHub Pages→Netlify Drop |
+### 2026-04-09
+- Completed: Created Research Park Data + AI User Group deck (builder-focused adaptation of Build To Learn). 20 slides: GRIT-CART framework, Three Shifts, Three Stances, four project demos (Canvas MCP, IlliniHunt, WhatsApp Bot, MakerLab), live build segment, context engineering. Added QR code for Substack. Deployed to GitHub Pages.
+- Next: Deliver talk April 10. Fill in `materials/2026-research-park-ai-ds/feedback.md` post-talk. Prepare LLTLC deck (May 18).
