@@ -132,10 +132,15 @@
 1. Upload your image (screenshot, Excalidraw PNG, or paper photo)
 2. Open **aistudio.google.com → Chat mode** (NOT Build — Chat gives a single HTML file)
 3. Paste image + ask for "a single HTML file with inline CSS and JS, no external libraries"
-4. Save the file → drag onto **app.netlify.com/drop** → live URL in seconds
-5. Iterate in Chat, save again, drop again
+4. Iterate in Chat until it works
+5. Click **Share** → copy the public link → post on Padlet
+6. ⚠️ **CRITICAL: Use "Share", not "Publish"** — Publish drops users into a credit-card / billing flow. Share is the free public link option.
 
-**Output:** Single HTML+JS page, deployed to a live Netlify URL in under 30 seconds. GitHub Pages is an optional "for permanence" follow-up after the workshop.
+**Output:** Public AI Studio link in under a minute, no extra tool needed.
+
+**Optional extensions** (only if a participant asks or you have spare time):
+- **Netlify Drop:** save the HTML, drag onto app.netlify.com/drop for a custom URL
+- **GitHub Pages:** for permanence + version history (post-workshop follow-up)
 
 **Iteration prompts to suggest:**
 - "Make the button bigger"
@@ -233,7 +238,8 @@ Shared doc: https://go.illinois.edu/lltlc
 | **"I don't know what to build"** | "What website or app do you already use? Screenshot it and tell the AI what to change!" |
 | **Stuck on ideation** | Push screenshot+remix path — it eliminates blank page problem |
 | **Participant stuck on sketching** | "Paper sketch + phone photo works too!" |
-| **Working only from phone** | Photo + AI Studio chat works on mobile, but Netlify Drop is desktop-friendly. Have them AirDrop/email the photo to themselves and continue on laptop — or pair with someone who has one. |
+| **Working only from phone** | Photo + AI Studio chat works on mobile, and Share button is reachable too. If they want Netlify Drop, switch to laptop. |
+| **Hit "Publish" by accident** | Back out — Publish opens a billing/credit-card flow. Direct them to the **Share** button instead. |
 | **AI Studio not working** | Try describing instead of image upload |
 | **Too many ideas** | "Pick the smallest one — you can build more later" |
 | **Running behind** | Cut demo time, extend build time |

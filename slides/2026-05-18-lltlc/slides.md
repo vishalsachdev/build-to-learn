@@ -507,12 +507,12 @@ Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>
 
 <div class="text-5xl mb-4">🚀</div>
 <div class="text-3xl font-bold mb-2">STEP 3</div>
-<div class="text-2xl font-bold mb-4 text-green-600 dark:text-green-300">Netlify Drop</div>
-<div class="text-xl font-bold mb-3">Drag, drop, live</div>
+<div class="text-2xl font-bold mb-4 text-green-600 dark:text-green-300">Share publicly</div>
+<div class="text-xl font-bold mb-3">AI Studio → <span class="text-green-700">Share</span></div>
 <ul class="text-left text-base space-y-1">
-<li>✓ No signup needed</li>
-<li>✓ Live URL in seconds</li>
-<li>✓ app.netlify.com/drop</li>
+<li>✓ Stays inside AI Studio</li>
+<li>✓ Free public link</li>
+<li>⚠️ Pick <strong>Share</strong>, not Publish</li>
 </ul>
 
 </div>
@@ -697,8 +697,10 @@ Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>
 - Open **aistudio.google.com** → **Chat** (not Build — Chat gives you a single HTML file)
 - Upload your sketch / screenshot / paper photo
 - Ask: *"Generate a single HTML file with inline CSS and JS — no external libraries — that does X"*
-- When you like it, save the file → drag onto **app.netlify.com/drop** → live URL in seconds
-- Then iterate: "Make the button bigger" / "Add a score counter" / "Make it work on mobile"
+- Iterate: "Make the button bigger" / "Add a score counter" / "Make it work on mobile"
+- When ready: click **Share** → copy the public link → drop it on the Padlet
+- ⚠️ Use **Share** (free public link). **Publish** opens a billing flow — skip it.
+- *Optional extension:* save the HTML and drag onto **app.netlify.com/drop** for a custom URL
 
 ---
 
