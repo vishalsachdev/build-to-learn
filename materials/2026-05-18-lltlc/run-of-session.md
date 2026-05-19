@@ -130,11 +130,12 @@
 
 **Instructions:**
 1. Upload your image (screenshot, Excalidraw PNG, or paper photo)
-2. Open aistudio.google.com → Build mode
-3. Paste image + describe what you want
-4. Iterate!
+2. Open **aistudio.google.com → Chat mode** (NOT Build — Chat gives a single HTML file)
+3. Paste image + ask for "a single HTML file with inline CSS and JS, no external libraries"
+4. Save the file → drag onto **app.netlify.com/drop** → live URL in seconds
+5. Iterate in Chat, save again, drop again
 
-**Output:** Single HTML+JS page that can be hosted free forever on GitHub Pages.
+**Output:** Single HTML+JS page, deployed to a live Netlify URL in under 30 seconds. GitHub Pages is an optional "for permanence" follow-up after the workshop.
 
 **Iteration prompts to suggest:**
 - "Make the button bigger"
@@ -176,7 +177,7 @@
 
 **Right now actions:**
 1. Find an accountability partner (turn to someone near you)
-2. Post your app URL in the shared doc: [[SHARED_DOC_LINK]]
+2. Post your app URL in the shared doc: https://go.illinois.edu/lltlc
 
 **Resources:**
 - https://excalidraw.com/
@@ -202,7 +203,7 @@
 
 - [ ] Test all links work
 - [ ] Have 1-2 demo artifacts ready to show
-- [ ] Shared doc ready for URLs: [[SHARED_DOC_LINK]]
+- [ ] Shared doc ready for URLs: https://go.illinois.edu/lltlc
 - [ ] Timer ready (visible to all)
 - [ ] Slides loaded and tested
 - [ ] WiFi info posted (if needed)
@@ -211,7 +212,7 @@
 
 - Slides (`slides/2026-05-18-lltlc/slides.md` via Slidev)
 - Timer (phone or online)
-- Shared doc for URLs: [[SHARED_DOC_LINK]]
+- Shared doc for URLs: https://go.illinois.edu/lltlc
 - Pre-built demo artifacts
 
 ## Links to Share
@@ -220,7 +221,7 @@
 Brainstorm: https://excalidraw.com/
 Build: aistudio.google.com
 Free Course: grow.google/ai-for-educators
-Shared doc: [[SHARED_DOC_LINK]]
+Shared doc: https://go.illinois.edu/lltlc
 ```
 
 ---
@@ -232,6 +233,7 @@ Shared doc: [[SHARED_DOC_LINK]]
 | **"I don't know what to build"** | "What website or app do you already use? Screenshot it and tell the AI what to change!" |
 | **Stuck on ideation** | Push screenshot+remix path — it eliminates blank page problem |
 | **Participant stuck on sketching** | "Paper sketch + phone photo works too!" |
+| **Working only from phone** | Photo + AI Studio chat works on mobile, but Netlify Drop is desktop-friendly. Have them AirDrop/email the photo to themselves and continue on laptop — or pair with someone who has one. |
 | **AI Studio not working** | Try describing instead of image upload |
 | **Too many ideas** | "Pick the smallest one — you can build more later" |
 | **Running behind** | Cut demo time, extend build time |

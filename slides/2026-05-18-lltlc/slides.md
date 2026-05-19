@@ -28,7 +28,7 @@ transition: slide-left
   <div class="text-2xl mt-2 font-semibold">Learn To Build</div>
 
   <div class="mt-6 text-xl font-semibold text-blue-500 dark:text-blue-300">
-    LLTLC · May 18, 2026
+    LLTLC · May 19, 2026
   </div>
 
   <div class="mt-8">
@@ -296,33 +296,31 @@ My job is to be the bridge — to translate my tacit knowledge into explicit con
 
 # Theory of Mind → Context Engineering
 
-<div class="my-12">
+<div class="my-4">
 
-<div class="text-center mb-8 text-3xl font-bold">
+<div class="text-center mb-4 text-2xl font-bold">
 <span class="line-through text-gray-400">PROMPT ENGINEERING</span>
 <span class="mx-4">→</span>
 <span class="text-blue-600 dark:text-blue-300">CONTEXT ENGINEERING</span>
 </div>
 
-<div class="grid grid-cols-2 gap-8 mt-12">
+<div class="grid grid-cols-2 gap-6 mt-4">
 
-<div class="p-8 bg-gray-100 dark:bg-gray-800 rounded-xl">
-<div class="text-4xl mb-4">❌</div>
-<h3 class="text-xl font-bold mb-3">Prompt Engineering</h3>
-<p class="text-lg">Wordsmithing — finding the magic phrase, the clever trick</p>
+<div class="p-5 bg-gray-100 dark:bg-gray-800 rounded-xl">
+<div class="text-3xl mb-2">❌</div>
+<h3 class="text-xl font-bold mb-2">Prompt Engineering</h3>
+<p class="text-base">Wordsmithing — finding the magic phrase, the clever trick</p>
 </div>
 
-<div class="p-8 bg-gradient-to-br from-blue-50 to-emerald-50 dark:from-blue-900 dark:to-emerald-900 rounded-xl border-2 border-blue-300">
-<div class="text-4xl mb-4">✅</div>
-<h3 class="text-xl font-bold mb-3">Context Engineering</h3>
-<p class="text-lg"><strong>What information</strong> you include, not how cleverly you phrase it</p>
+<div class="p-5 bg-gradient-to-br from-blue-50 to-emerald-50 dark:from-blue-900 dark:to-emerald-900 rounded-xl border-2 border-blue-300"><div class="text-3xl mb-2">✅</div>
+<h3 class="text-xl font-bold mb-2">Context Engineering</h3>
+<p class="text-base"><strong>What information</strong> you include, not how cleverly you phrase it</p>
 </div>
 
 </div>
 
-<div class="mt-10 p-6 bg-yellow-50 dark:bg-yellow-900 rounded-xl text-center text-xl">
-💡 You don't need to learn <em>prompting</em>.<br/>
-You need to make your <strong>tacit knowledge explicit</strong>.
+<div class="mt-4 p-4 bg-yellow-50 dark:bg-yellow-900 rounded-xl text-center text-lg">
+💡 You don't need to learn <em>prompting</em>. You need to make your <strong>tacit knowledge explicit</strong>.
 </div>
 
 </div>
@@ -331,39 +329,38 @@ You need to make your <strong>tacit knowledge explicit</strong>.
 
 # The Three Stances
 
-<div class="my-8">
+<div class="my-4">
 
-<div class="space-y-6">
+<div class="space-y-3">
 
-<div class="p-6 bg-red-50 dark:bg-red-900 rounded-xl border-l-4 border-red-500 flex items-start gap-4">
-<div class="text-4xl">❌</div>
+<div class="p-4 bg-red-50 dark:bg-red-900 rounded-xl border-l-4 border-red-500 flex items-start gap-4">
+<div class="text-3xl">❌</div>
 <div>
-<div class="font-bold text-xl mb-2">Stance 1: Don't know the domain</div>
-<div class="text-lg">AI gives garbage mixed with gold, can't tell which</div>
+<div class="font-bold text-lg">Stance 1: Don't know the domain</div>
+<div class="text-base">AI gives garbage mixed with gold, can't tell which</div>
 </div>
 </div>
 
-<div class="p-6 bg-yellow-50 dark:bg-yellow-900 rounded-xl border-l-4 border-yellow-500 flex items-start gap-4">
-<div class="text-4xl">⚠️</div>
+<div class="p-4 bg-yellow-50 dark:bg-yellow-900 rounded-xl border-l-4 border-yellow-500 flex items-start gap-4">
+<div class="text-3xl">⚠️</div>
 <div>
-<div class="font-bold text-xl mb-2">Stance 2: Know domain, resist adapting</div>
-<div class="text-lg">Only get time savings on rote tasks</div>
+<div class="font-bold text-lg">Stance 2: Know domain, resist adapting</div>
+<div class="text-base">Only get time savings on rote tasks</div>
 </div>
 </div>
 
-<div class="p-6 bg-gradient-to-r from-green-50 to-blue-50 dark:from-green-900 dark:to-blue-900 rounded-xl border-l-4 border-green-500 flex items-start gap-4">
-<div class="text-4xl">🚀</div>
+<div class="p-4 bg-gradient-to-r from-green-50 to-blue-50 dark:from-green-900 dark:to-blue-900 rounded-xl border-l-4 border-green-500 flex items-start gap-4">
+<div class="text-3xl">🚀</div>
 <div>
-<div class="font-bold text-xl mb-2">Stance 3: Know domain + collaborate creatively</div>
-<div class="text-lg font-bold text-green-600 dark:text-green-300">DRAMATIC AMPLIFICATION</div>
+<div class="font-bold text-lg">Stance 3: Know domain + collaborate creatively</div>
+<div class="text-base font-bold text-green-600 dark:text-green-300">DRAMATIC AMPLIFICATION</div>
 </div>
 </div>
 
 </div>
 
-<div class="mt-10 p-6 bg-blue-50 dark:bg-blue-900 rounded-xl text-center text-xl">
-<strong>You are domain experts in teaching and learning.</strong><br/>
-Today we move you to <span class="text-green-600 dark:text-green-300 font-bold">Stance 3</span>.
+<div class="mt-4 p-3 bg-blue-50 dark:bg-blue-900 rounded-xl text-center text-base">
+<strong>You are domain experts in teaching and learning.</strong> Today we move you to <span class="text-green-600 dark:text-green-300 font-bold">Stance 3</span>.
 </div>
 
 </div>
@@ -506,16 +503,16 @@ Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>
 
 </div>
 
-<div class="text-center p-6 bg-gradient-to-br from-green-50 to-teal-50 dark:from-green-900 dark:to-teal-900 rounded-xl border-2 border-green-300 border-dashed opacity-80">
+<div class="text-center p-6 bg-gradient-to-br from-green-50 to-teal-50 dark:from-green-900 dark:to-teal-900 rounded-xl border-2 border-green-300">
 
 <div class="text-5xl mb-4">🚀</div>
-<div class="text-3xl font-bold mb-2">STEP 3 <span class="text-base font-normal">(optional)</span></div>
-<div class="text-2xl font-bold mb-4 text-green-600 dark:text-green-300">GitHub Pages</div>
-<div class="text-xl font-bold mb-3">Publish for free</div>
+<div class="text-3xl font-bold mb-2">STEP 3</div>
+<div class="text-2xl font-bold mb-4 text-green-600 dark:text-green-300">Netlify Drop</div>
+<div class="text-xl font-bold mb-3">Drag, drop, live</div>
 <ul class="text-left text-base space-y-1">
-<li>✓ Single HTML+JS page</li>
-<li>✓ Free hosting forever</li>
-<li>✓ Shareable URL</li>
+<li>✓ No signup needed</li>
+<li>✓ Live URL in seconds</li>
+<li>✓ app.netlify.com/drop</li>
 </ul>
 
 </div>
@@ -574,6 +571,10 @@ Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>
 
 <div class="mt-4 p-4 bg-blue-50 dark:bg-blue-900 rounded-lg text-center">
 💡 Both work equally well — AI Studio accepts any image
+</div>
+
+<div class="mt-3 p-3 bg-orange-50 dark:bg-orange-900 rounded-lg text-center text-sm">
+📱 Phone tip: take the photo on your phone, then AirDrop/email it to yourself and continue on your laptop. Netlify Drop is desktop-friendly.
 </div>
 
 ---
@@ -674,8 +675,8 @@ Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>
 </div>
 
 <div class="mt-4 p-3 bg-blue-100 dark:bg-blue-800 rounded-lg text-center">
-<div class="text-base font-bold mb-1">📋 Share your sketches</div>
-<div class="text-sm">Shared Excalidraw: <span class="underline font-mono">[[SHARED_EXCALIDRAW_LINK]]</span></div>
+<div class="text-base font-bold mb-1">📋 Drop sketches + finished URLs here</div>
+<div class="text-sm">Padlet: <span class="underline font-mono">go.illinois.edu/lltlc</span></div>
 </div>
 
 ---
@@ -691,12 +692,13 @@ Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>
 
 ---
 
-# AI Studio: Build Mode
+# AI Studio: Chat Mode
 
-- Export Excalidraw sketch as PNG (or describe it)
-- Open aistudio.google.com → Build mode
-- Paste image or describe what you want
-- Iterate: "Make the button bigger" / "Add a score counter" / "Add AI features"
+- Open **aistudio.google.com** → **Chat** (not Build — Chat gives you a single HTML file)
+- Upload your sketch / screenshot / paper photo
+- Ask: *"Generate a single HTML file with inline CSS and JS — no external libraries — that does X"*
+- When you like it, save the file → drag onto **app.netlify.com/drop** → live URL in seconds
+- Then iterate: "Make the button bigger" / "Add a score counter" / "Make it work on mobile"
 
 ---
 
@@ -806,7 +808,7 @@ Try saying:
 <div class="p-4 bg-green-50 dark:bg-green-900 rounded-xl text-center">
 <div class="text-4xl mb-3">🔗</div>
 <div class="text-lg font-bold mb-1">Right now:</div>
-<div class="text-base">Post your app URL in the doc</div>
+<div class="text-base">Post your Netlify URL on the Padlet</div>
 </div>
 
 </div>
@@ -846,7 +848,7 @@ Try saying:
 </div>
 
 <div class="mt-6 p-4 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-xl text-center text-lg">
-🎨 <strong>Shared Excalidraw:</strong> <span class="font-mono underline">[[SHARED_EXCALIDRAW_LINK]]</span>
+📋 <strong>Padlet (share your URLs):</strong> <span class="font-mono underline">go.illinois.edu/lltlc</span>
 </div>
 
 ---

@@ -318,7 +318,7 @@ Best for: "I have a specific problem"
 
 ## Slide 19: BUILD SESSION 2: Make It Real
 
-**40-45 minutes in AI Studio**
+**15 minutes in AI Studio (Chat mode) + Netlify Drop**
 
 The Workflow:
 
