@@ -1,0 +1,28 @@
+# Working materials with real names, raw data, or trademark provenance — keep private.
+# Public, committed surface is intentionally narrow: position-paper.md, references.md, thesis.md, extract.py, test_extract.py, README.md.
+
+# Evidence base and corpus — heavy with real names of students, alumni, faculty, partners.
+evidence-base.md
+corpus.csv
+corpus.json
+
+# Trademark-counsel evidence file — internal until counsel says otherwise.
+provenance.csv
+
+# Older variant outputs of the position paper — superseded by position-paper.md, contain names.
+one-pager.md
+deck.md
+essay.md
+
+# Curation helper script — may embed names in tag rules.
+_curate.py
+
+# Email drafts and outreach asks — private working correspondence.
+sara-quote-ask.md
+*-quote-ask.md
+*-email-draft.md
+
+# Python build artefacts and test fixtures
+__pycache__/
+*.pyc
+_fixture_export/
