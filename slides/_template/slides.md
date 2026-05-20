@@ -718,6 +718,33 @@ Try saying:
 
 ---
 
+# 🛠️ Facilitator: Build the Exit Ticket — Live
+
+<div class="text-lg opacity-80 mb-4">While participants build, you build too — model the exact workflow <em>and</em> create your feedback channel.</div>
+
+<div class="grid grid-cols-2 gap-6 my-5">
+
+<div class="p-5 bg-blue-50 dark:bg-blue-900 rounded-xl">
+<div class="text-3xl mb-2">1️⃣</div>
+<div class="font-bold mb-1">Open AI Studio → Chat</div>
+<div class="text-sm">Paste the prompt below. Iterate if needed.</div>
+</div>
+
+<div class="p-5 bg-emerald-50 dark:bg-emerald-900 rounded-xl">
+<div class="text-3xl mb-2">2️⃣</div>
+<div class="font-bold mb-1">Share → copy the link</div>
+<div class="text-sm">Drop it on the Exit Ticket slide / Padlet so participants can submit.</div>
+</div>
+
+</div>
+
+<div class="p-4 bg-yellow-50 dark:bg-yellow-900 rounded-xl border-l-8 border-yellow-500">
+<div class="font-bold text-sm mb-1">📋 Paste into AI Studio Chat (swap in your email):</div>
+<div class="font-mono text-xs leading-relaxed">Generate a single HTML file — inline CSS + JS, no external libraries — a workshop exit-ticket form. Fields: overall rating (1–5 stars), "What worked / what clicked", "What you'd change", "What will you build — or have your students build — in the next 2 weeks?", and an optional name. A Submit button opens a pre-filled email to your-email@example.edu with all answers in the body. Clean, mobile-friendly.</div>
+</div>
+
+---
+
 <div class="h-full flex items-center justify-center bg-gradient-to-br from-emerald-600 to-pink-500 text-white">
 <div class="text-center">
 <div class="text-8xl font-bold mb-4">CLOSING</div>
