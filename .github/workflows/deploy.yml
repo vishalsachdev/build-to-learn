@@ -43,6 +43,12 @@ jobs:
             fi
 
             slug="$(basename "$dir")"
+
+            if [ "$slug" = "_template" ]; then
+              echo "Skipping scaffold deck: $slug"
+              continue
+            fi
+
             echo "Building Slidev deck: $slug"
 
             (
