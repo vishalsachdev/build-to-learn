@@ -884,24 +884,32 @@ Try saying:
 
 # Exit Ticket
 
-<div class="space-y-4 my-6">
+<div class="text-lg opacity-80 mb-4">Two minutes — open the link your facilitator shared and submit.</div>
 
-<div class="p-4 bg-gradient-to-r from-yellow-100 to-orange-100 dark:from-yellow-900 dark:to-orange-900 rounded-xl border-l-8 border-yellow-500">
-<div class="text-3xl mb-2">💡</div>
-<div class="text-lg font-bold">One thing that clicked</div>
+<div class="space-y-3 my-4">
+
+<div class="p-3 bg-gradient-to-r from-yellow-100 to-orange-100 dark:from-yellow-900 dark:to-orange-900 rounded-xl border-l-8 border-yellow-500">
+<div class="text-lg font-bold">⭐ How was the workshop? (rate 1–5)</div>
 </div>
 
-<div class="p-4 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-xl border-l-8 border-blue-500">
-<div class="text-3xl mb-2">❓</div>
-<div class="text-lg font-bold">One thing still fuzzy</div>
+<div class="p-3 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-xl border-l-8 border-blue-500">
+<div class="text-lg font-bold">💡 What worked — what clicked</div>
 </div>
 
-<div class="p-4 bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-xl border-l-8 border-green-500">
-<div class="text-3xl mb-2">🚀</div>
-<div class="text-lg font-bold">What will you build — or have your students build — in the next 2 weeks of your course?</div>
+<div class="p-3 bg-gradient-to-r from-pink-100 to-rose-100 dark:from-pink-900 dark:to-rose-900 rounded-xl border-l-8 border-pink-500">
+<div class="text-lg font-bold">🔧 What you'd change</div>
+</div>
+
+<div class="p-3 bg-gradient-to-r from-green-100 to-teal-100 dark:from-green-900 dark:to-teal-900 rounded-xl border-l-8 border-green-500">
+<div class="text-lg font-bold">🚀 What will you build — or have your students build — in the next 2 weeks?</div>
 </div>
 
 </div>
+
+<div class="mt-4 p-3 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-xl text-center text-lg">
+📝 <strong>Exit ticket app:</strong> <span class="font-mono underline">[facilitator pastes the AI Studio link]</span>
+</div>
+
 
 ---
 
