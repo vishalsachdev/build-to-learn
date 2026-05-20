@@ -3,7 +3,7 @@
   "type": "module",
   "scripts": {
     "dev": "slidev",
-    "build": "slidev build --base /build-to-learn/2026-05-18-lltlc/",
+    "build": "slidev build --base /build-to-learn/_template/",
     "export": "slidev export"
   },
   "dependencies": {

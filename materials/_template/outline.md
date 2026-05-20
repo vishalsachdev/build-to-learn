@@ -1,10 +1,10 @@
 # Building to Learn, Learning to Build
 
-**Event:** Lincoln Legacy Teaching and Learning Community (LLTLC)
-**Date:** May 18-19, 2026
-**Location:** Illini Union, Urbana, IL
+**Event:** YOUR EVENT
+**Date:** YYYY-MM-DD
+**Location:** YOUR LOCATION
 **Format:** Workshop (50 min)
-**Proposal submitted:** January 22, 2026 ✓
+**Proposal submitted:** YYYY-MM-DD
 
 ---
 

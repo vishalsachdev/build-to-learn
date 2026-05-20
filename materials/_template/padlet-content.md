@@ -1,8 +1,8 @@
 # Padlet Content — paste into pinned posts at top of board
 
-Create the Padlet at https://padlet.com (free tier). Layout: **Wall** or **Shelf**. Title: "Build to Learn · LLTLC · May 19, 2026". Visibility: anyone with link can post (no signup).
+Create the Padlet at https://padlet.com (free tier). Layout: **Wall** or **Shelf**. Title: "Build to Learn · YOUR EVENT · MONTH DAY, YEAR". Visibility: anyone with link can post (no signup).
 
-**Short URL for the room:** https://go.illinois.edu/lltlc (point it at the Padlet URL once created).
+**Short URL for the room:** https://go.illinois.edu/YOUR-EVENT (point it at the Padlet URL once created).
 
 Then create the following pinned posts. (Pin by clicking ⋯ on the post → "Pin to top".)
 
@@ -26,7 +26,7 @@ No signup needed. Click the **+** to add a post.
 
 **🔗 Links you'll need today**
 
-- 🖼️ Slides: https://vishalsachdev.github.io/build-to-learn/2026-05-18-lltlc/
+- 🖼️ Slides: https://vishalsachdev.github.io/build-to-learn/_template/
 - ✏️ Sketch: https://excalidraw.com
 - 🤖 Build: https://aistudio.google.com (use **Chat** mode, not Build)
 - 🚀 Deploy: https://app.netlify.com/drop (drag & drop your HTML file)

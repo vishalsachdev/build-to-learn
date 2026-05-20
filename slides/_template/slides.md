@@ -28,7 +28,7 @@ transition: slide-left
   <div class="text-2xl mt-2 font-semibold">Learn To Build</div>
 
   <div class="mt-6 text-xl font-semibold text-blue-500 dark:text-blue-300">
-    LLTLC · May 19, 2026
+    YOUR EVENT · MONTH DAY, YEAR
   </div>
 
   <div class="mt-8">
@@ -676,7 +676,7 @@ Watch for: <strong>Theory of Mind</strong>, <strong>Context Engineering</strong>
 
 <div class="mt-4 p-3 bg-blue-100 dark:bg-blue-800 rounded-lg text-center">
 <div class="text-base font-bold mb-1">📋 Drop sketches + finished URLs here</div>
-<div class="text-sm">Padlet: <span class="underline font-mono">go.illinois.edu/lltlc</span></div>
+<div class="text-sm">Padlet: <span class="underline font-mono">go.illinois.edu/YOUR-EVENT</span></div>
 </div>
 
 ---
@@ -850,7 +850,7 @@ Try saying:
 </div>
 
 <div class="mt-6 p-4 bg-gradient-to-r from-blue-100 to-emerald-100 dark:from-blue-900 dark:to-emerald-900 rounded-xl text-center text-lg">
-📋 <strong>Padlet (share your URLs):</strong> <span class="font-mono underline">go.illinois.edu/lltlc</span>
+📋 <strong>Padlet (share your URLs):</strong> <span class="font-mono underline">go.illinois.edu/YOUR-EVENT</span>
 </div>
 
 ---

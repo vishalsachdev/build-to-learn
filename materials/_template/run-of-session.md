@@ -1,8 +1,8 @@
 # Run of Session: Building to Learn (50 min)
 
 ## Overview
-**Event:** LLTLC 2026 — Lincoln Legacy Teaching and Learning Community
-**Date:** May 18-19, 2026
+**Event:** YOUR EVENT
+**Date:** YYYY-MM-DD
 **Duration:** 50 minutes
 **Format:** Workshop with hands-on building
 **Outcome:** Participants leave with a working single-page HTML+JS tool they can use in their next class session
@@ -182,7 +182,7 @@
 
 **Right now actions:**
 1. Find an accountability partner (turn to someone near you)
-2. Post your app URL in the shared doc: https://go.illinois.edu/lltlc
+2. Post your app URL in the shared doc: https://go.illinois.edu/YOUR-EVENT
 
 **Resources:**
 - https://excalidraw.com/
@@ -208,16 +208,16 @@
 
 - [ ] Test all links work
 - [ ] Have 1-2 demo artifacts ready to show
-- [ ] Shared doc ready for URLs: https://go.illinois.edu/lltlc
+- [ ] Shared doc ready for URLs: https://go.illinois.edu/YOUR-EVENT
 - [ ] Timer ready (visible to all)
 - [ ] Slides loaded and tested
 - [ ] WiFi info posted (if needed)
 
 ## Materials Needed
 
-- Slides (`slides/2026-05-18-lltlc/slides.md` via Slidev)
+- Slides (`slides/_template/slides.md` via Slidev)
 - Timer (phone or online)
-- Shared doc for URLs: https://go.illinois.edu/lltlc
+- Shared doc for URLs: https://go.illinois.edu/YOUR-EVENT
 - Pre-built demo artifacts
 
 ## Links to Share
@@ -226,7 +226,7 @@
 Brainstorm: https://excalidraw.com/
 Build: aistudio.google.com
 Free Course: grow.google/ai-for-educators
-Shared doc: https://go.illinois.edu/lltlc
+Shared doc: https://go.illinois.edu/YOUR-EVENT
 ```
 
 ---

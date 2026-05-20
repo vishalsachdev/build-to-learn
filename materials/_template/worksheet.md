@@ -4,8 +4,8 @@
 
 # **📌 Logistics**
 
-**Event:** LLTLC 2026 — Lincoln Legacy Teaching and Learning Community
-**Date:** May 18-19, 2026
+**Event:** YOUR EVENT
+**Date:** YYYY-MM-DD
 **Time:** 50-minute workshop
 **Audience:** Faculty & instructional designers
 

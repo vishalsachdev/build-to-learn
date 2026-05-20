@@ -1,11 +1,11 @@
 # Build To Learn, Learn To Build
 
-**Session:** Lincoln Legacy Teaching and Learning Community (LLTLC)
-**Date:** 2026-05-18
+**Session:** TEMPLATE — replace when scaffolding via `npm run new:talk`
+**Date:** YYYY-MM-DD
 
 ## Slide deck
 Public deck URL (update if needed):
-- https://vishalsachdev.github.io/build-to-learn/2026-05-18-lltlc/
+- https://vishalsachdev.github.io/build-to-learn/_template/
 
 ## Local dev
 ```bash
@@ -20,7 +20,7 @@ npm run export
 ```
 
 ## Materials
-- `../../materials/2026-05-18-lltlc/run-of-session.md`
-- `../../materials/2026-05-18-lltlc/worksheet.md`
-- `../../materials/2026-05-18-lltlc/outline.md`
-- `../../materials/2026-05-18-lltlc/ad-for-talk.md`
+- `../../materials/_template/run-of-session.md`
+- `../../materials/_template/worksheet.md`
+- `../../materials/_template/outline.md`
+- `../../materials/_template/ad-for-talk.md`
