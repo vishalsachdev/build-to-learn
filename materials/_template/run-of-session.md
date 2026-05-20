@@ -154,6 +154,13 @@
 - Encourage iteration: "What's wrong with it? Tell the AI."
 - Celebrate progress: "That's working! What's next?"
 
+**While they build — build the exit-ticket app yourself:**
+- Open AI Studio → Chat and paste the exit-ticket prompt (on the "Facilitator: Build the Exit Ticket" slide).
+- Swap `your-email@example.edu` for your real address before sending the prompt.
+- Iterate once or twice, then click **Share** and copy the public link.
+- Paste that link onto the Exit Ticket slide (the `[facilitator pastes the AI Studio link]` placeholder) and/or the Padlet.
+- This models the exact workflow participants are doing — and gives you a live feedback channel.
+
 **Time checks:**
 - At 7 min: "Halfway! How's everyone doing?"
 - At 12 min: "3 more minutes!"
@@ -194,13 +201,9 @@
 
 ### 0:58-1:00 — Exit Ticket & Close (2 min)
 
-**Three questions:**
-1. 💡 One thing that clicked
-2. ❓ One thing still fuzzy
-3. 🚀 What will you build in the next 2 weeks of your course?
+**Exit ticket:** Point participants at the exit-ticket app you built and shared. Ask them to open the link and submit — rating, what worked, what they'd change, and what they'll build in the next 2 weeks.
 
-**Close with:**
-> "Now go build something. Thank you for being here today. I can't wait to see what you create — and what your students create after you teach them."
+**Close:** Thank them. "Now go build something." Remind them their built-app URLs live on the Padlet.
 
 ---
 
