@@ -160,7 +160,7 @@ async function main() {
   const slugs = await listDeckSlugs();
   if (slugs.length === 0) throw new Error('No templates found under slides/* (expected at least one Slidev deck).');
 
-  const templateSlug = opts.from ?? slugs.at(-1);
+  const templateSlug = opts.from ?? '_template';
   if (!templateSlug) throw new Error('Could not determine a template deck (unexpected).');
 
   const templateSlidesDir = path.join(REPO_ROOT, 'slides', templateSlug);
@@ -170,7 +170,11 @@ async function main() {
   const newMaterialsDir = path.join(REPO_ROOT, 'materials', opts.slug);
 
   if (!slugs.includes(templateSlug)) {
-    throw new Error(`Template "${templateSlug}" not found under slides/. Available: ${slugs.join(', ')}`);
+    throw new Error(
+      `Template "${templateSlug}" not found under slides/. ` +
+      `Default template is "_template"; pass --from <slug> to copy from another deck. ` +
+      `Available: ${slugs.join(', ')}`,
+    );
   }
 
   if (await pathExists(newSlidesDir)) {
