@@ -86,8 +86,8 @@ After delivering a talk, fill in `materials/<slug>/feedback.md` with facilitator
 
 ## Session Log
 
-### 2026-05-20
-- Completed: Exported a fresh LLTLC PDF to Box (added `playwright-chromium` dev dep to that deck for `slidev export`). Built the canonical `slides/_template/` + `materials/_template/` deck (copied from LLTLC, generic-ized) and pointed `npm run new:talk` at it by default; `_template` is skipped in the GH Pages deploy. Added the **live exit-ticket activity**: a facilitator-cue slide ("while participants build, you build a workshop-feedback app in AI Studio") with a ready-to-paste prompt, and reworked the closing Exit Ticket slide from static prompts to workshop-impression questions pointing at the facilitator's live mailto-based app. Spec + plan in `docs/superpowers/`.
-- Next: `main` has unpushed commits — push to deploy. When the next workshop is scheduled, `new:talk` now scaffolds from `_template` with the exit-ticket activity built in.
+### 2026-05-22
+- Completed: Exported a fresh LLTLC PDF to Box (added `playwright-chromium` dev dep to that deck for `slidev export`). Built the canonical `slides/_template/` + `materials/_template/` deck (copied from LLTLC, generic-ized) and pointed `npm run new:talk` at it by default; `_template` is skipped in the GH Pages deploy. Added the **live exit-ticket activity**: a facilitator-cue slide ("while participants build, you build a workshop-feedback app in AI Studio") with a ready-to-paste prompt, and reworked the closing Exit Ticket slide from static prompts to workshop-impression questions pointing at the facilitator's live mailto-based app. Spec + plan in `docs/superpowers/`. Committed AGENTS.md and gitignored `.claude/`.
+- Next: When the next workshop is scheduled, `new:talk` now scaffolds from `_template` with the exit-ticket activity built in. Facilitator-side: try the live exit-ticket flow at the next delivery to validate the mailto-collection assumption.
 
 *Older entries archived to `docs/session-archive.md`*
