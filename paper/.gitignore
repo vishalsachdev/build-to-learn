@@ -22,6 +22,9 @@ sara-quote-ask.md
 *-quote-ask.md
 *-email-draft.md
 
+# Reviewer feedback on the paper — real names + verbatim private comments. Keep private.
+feedback.md
+
 # Python build artefacts and test fixtures
 __pycache__/
 *.pyc
