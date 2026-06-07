@@ -39,10 +39,19 @@ Each citation is tied to a specific load-bearing claim. The essay and deck use p
 
 - **Csikszentmihalyi, M. (1990).** *Flow: The Psychology of Optimal Experience.* Harper & Row. — The intersection-of-challenge-and-skill model; as skill grows, challenge must grow to sustain engagement. Anchor for §2.4's complexity-gradient claim and the novelty-fade answer.
 
+## Grit-CART (the framework this paper's trajectory uses)
+
+- **Sachdev, V. (2026).** "From Tweet to Treatise: How a Grok Conversation Became a Research Framework." *The Hybrid Builder.* https://chatwithgpt.substack.com/p/from-tweet-to-treatise-how-a-grok — Canonical write-up of **Grit-CART**: a dispositional framework for AI-era entrepreneurship/intrapreneurship learning. Four traits in an iterative cycle — **C**uriosity, **A**gency, **R**esourceful experimentation, **T**houghtful judgment — with **Grit** as the engine. The framework, its five-agent critical evaluation, and 74 sources (41 peer-reviewed) are public at https://github.com/vishalsachdev/grit-cart. This is the canonical reference for every "Grit-CART" mention in the paper (§2.3, §2.4, §4.5). The paper's "Thoughtful Judgment" → *judgement* → *taste* mapping is this paper's deliberate reframe of the **T** trait; §2.3's trajectory has been normalized to the canonical C-A-R-T traits (Curiosity → Agency → Resourceful experimentation → Thoughtful judgment → Grit), and §2.4 already uses them.
+
 ## Grit (with honest limits)
 
 - **Duckworth, A. (2016).** *Grit: The Power of Passion and Perseverance.* Scribner. — The foundational grit construct.
 - **Credé, M. (2018).** "What Shall We Do About Grit? A Critical Review of What We Know and What We Don't Know." *Educational Researcher, 47*(9), 606–611. — Meta-analytic critique; small effect sizes, large overlap with conscientiousness. Cite alongside Duckworth — the essay says grit *can be trained*, not that grit is decisive.
+
+## Motivation (the "already-curious" objection, reframed as motivation cost)
+
+- **Eccles, J. S., & Wigfield, A. (2002).** "Motivational Beliefs, Values, and Goals." *Annual Review of Psychology, 53*, 109–132. — Expectancy-value theory: learners invest effort when the perceived value of an outcome exceeds its perceived cost. Load-bearing anchor for §4.4's reframing of "privileges the curious" into a *motivation-cost* objection that can be engineered.
+- **Hidi, S., & Renninger, K. A. (2006).** "The Four-Phase Model of Interest Development." *Educational Psychologist, 41*(2), 111–127. — Situational interest (triggered by a well-designed first encounter) can mature into durable individual interest through repetition. Supports §4.4's claim that the build act can manufacture interest in students who didn't arrive with it.
 
 ## AI as cognitive partner / co-intelligence
 
