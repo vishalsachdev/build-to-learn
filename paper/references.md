@@ -17,11 +17,12 @@ Each citation is tied to a specific load-bearing claim. The essay and deck use p
 
 - **Papert, S. (1980).** *Mindstorms: Children, Computers, and Powerful Ideas.* Basic Books. — Constructionism = learning by making things one can share and reflect on.
 - **Resnick, M. (2017).** *Lifelong Kindergarten: Cultivating Creativity Through Projects, Passion, Peers, and Play.* MIT Press. — Modern restatement; the 4P framework.
+- **Resnick, M. (2002).** "Rethinking Learning in the Digital Age." In G. Kirkman (Ed.), *The Global Information Technology Report: Readiness for the Networked World.* Oxford University Press. — Articulates **digital fluency** as the capacity to *create and design* with a technology, not merely browse/operate it. Load-bearing anchor for the paper's *fluency*-forward framing: `#LearnToBuild` is fluency (build *well*) not literacy (consume); §4.3 frames the equity gap as a *fluency* gap.
 
 ## Productive struggle / productive failure
 
 - **Hiebert, J., & Grouws, D. A. (2007).** "The Effects of Classroom Mathematics Teaching on Students' Learning." In F. K. Lester Jr. (Ed.), *Second Handbook of Research on Mathematics Teaching and Learning* (pp. 371–404). NCTM. — Defines productive struggle in math education.
-- **Kapur, M. (2008).** "Productive Failure." *Cognition and Instruction, 26*(3), 379–424. — Failure-then-explanation outperforms direct instruction on transfer tasks. Anchors §2.5's "cheap failure run many times" claim.
+- **Kapur, M. (2008).** "Productive Failure." *Cognition and Instruction, 26*(3), 379–424. — Failure-then-explanation outperforms direct instruction on transfer tasks. Anchors §2.5 — but the lever is *consolidation* (compare suboptimal attempts against the canonical/better one), which the loop's compare-and-choose step supplies; failure *quantity* alone is not the mechanism.
 - **Eskreis-Winkler, L., & Fishbach, A. (2022).** "You Think Failure Is Hard? So Is Learning From It." *Perspectives on Psychological Science, 17*(6). https://doi.org/10.1177/17456916211059817 — People do *not* naturally learn from failure: it is ego-threatening (emotional barrier) and information-poor (cognitive barrier). Load-bearing anchor for §2.5 — the build-with-AI loop dismantles both barriers (AI externalizes the failure → lower ego threat; compare-variants → extractable lesson). Counters the naive "celebrate failure" cliché, which strengthens rather than weakens the paper. Suggested by Nathan Yang.
 
 ## Mental models made visible
