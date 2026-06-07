@@ -21,7 +21,8 @@ Each citation is tied to a specific load-bearing claim. The essay and deck use p
 ## Productive struggle / productive failure
 
 - **Hiebert, J., & Grouws, D. A. (2007).** "The Effects of Classroom Mathematics Teaching on Students' Learning." In F. K. Lester Jr. (Ed.), *Second Handbook of Research on Mathematics Teaching and Learning* (pp. 371–404). NCTM. — Defines productive struggle in math education.
-- **Kapur, M. (2008).** "Productive Failure." *Cognition and Instruction, 26*(3), 379–424. — Failure-then-explanation outperforms direct instruction on transfer tasks.
+- **Kapur, M. (2008).** "Productive Failure." *Cognition and Instruction, 26*(3), 379–424. — Failure-then-explanation outperforms direct instruction on transfer tasks. Anchors §2.5's "cheap failure run many times" claim.
+- **Eskreis-Winkler, L., & Fishbach, A. (2022).** "You Think Failure Is Hard? So Is Learning From It." *Perspectives on Psychological Science, 17*(6). https://doi.org/10.1177/17456916211059817 — People do *not* naturally learn from failure: it is ego-threatening (emotional barrier) and information-poor (cognitive barrier). Load-bearing anchor for §2.5 — the build-with-AI loop dismantles both barriers (AI externalizes the failure → lower ego threat; compare-variants → extractable lesson). Counters the naive "celebrate failure" cliché, which strengthens rather than weakens the paper. Suggested by Nathan Yang.
 
 ## Mental models made visible
 
@@ -52,6 +53,7 @@ Each citation is tied to a specific load-bearing claim. The essay and deck use p
 
 - **Eccles, J. S., & Wigfield, A. (2002).** "Motivational Beliefs, Values, and Goals." *Annual Review of Psychology, 53*, 109–132. — Expectancy-value theory: learners invest effort when the perceived value of an outcome exceeds its perceived cost. Load-bearing anchor for §4.4's reframing of "privileges the curious" into a *motivation-cost* objection that can be engineered.
 - **Hidi, S., & Renninger, K. A. (2006).** "The Four-Phase Model of Interest Development." *Educational Psychologist, 41*(2), 111–127. — Situational interest (triggered by a well-designed first encounter) can mature into durable individual interest through repetition. Supports §4.4's claim that the build act can manufacture interest in students who didn't arrive with it.
+- **Woolley, K., & Fishbach, A. (2017).** "Immediate Rewards Predict Adherence to Long-Term Goals." *Personality and Social Psychology Bulletin, 43*(2), 151–162. https://doi.org/10.1177/0146167216676480 — *Immediate* rewards (vs. promised future ones) sustain persistence on long-term goals by raising intrinsic motivation. Anchors §4.4 (the working artifact is the immediate reward that carries the slower learning goal) and §4.5 (the immediate reward supplies the motivation to take the next rep). Suggested by Nathan Yang.
 
 ## AI as cognitive partner / co-intelligence
 
