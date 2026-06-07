@@ -2,6 +2,10 @@
 
 Older session-log entries moved out of `CLAUDE.md` to keep it concise.
 
+### 2026-06-01
+- Completed: Collected 4 rounds of reviewer feedback on `paper/position-paper.md` into a new **private** `paper/feedback.md` (4 attributed entries, 9 open action items). Feedback splits into 3 tracks: reach/relevance content additions (AI-pervasiveness up front, career readiness, workforce transferability), rigor edits to §4 Objections (§4.1 recursion, §4.2 viva shelf-life vs AI avatars, §4.3 AI-skill-variance equity dimension, §4.4 motivation-cost reframe, §2.2 recursive-loop/"done when learner says done"), and distribution/form (white paper for peer deans and/or 3–4 mainstream Gies-site pieces). Closed a privacy gap: `paper/feedback.md` was NOT covered by `paper/.gitignore`'s allowlist-by-omission and would have published real names to public GH Pages — added `feedback.md` to the ignore list.
+- Next: Address the 9 action items against `position-paper.md` (start with Jason Mock's §4 rigor edits — cheapest/sharpest, hardens the paper for the peer-dean audience), then Sahib/Amber reach additions, then scope Aaron's repackaging. See `paper/feedback.md` for the full checklist.
+
 ### 2026-05-22
 - Completed: Exported a fresh LLTLC PDF to Box (added `playwright-chromium` dev dep to that deck for `slidev export`). Built the canonical `slides/_template/` + `materials/_template/` deck (copied from LLTLC, generic-ized) and pointed `npm run new:talk` at it by default; `_template` is skipped in the GH Pages deploy. Added the **live exit-ticket activity**: a facilitator-cue slide ("while participants build, you build a workshop-feedback app in AI Studio") with a ready-to-paste prompt, and reworked the closing Exit Ticket slide from static prompts to workshop-impression questions pointing at the facilitator's live mailto-based app. Spec + plan in `docs/superpowers/`. Committed AGENTS.md and gitignored `.claude/`.
 - Next: When the next workshop is scheduled, `new:talk` now scaffolds from `_template` with the exit-ticket activity built in. Facilitator-side: try the live exit-ticket flow at the next delivery to validate the mailto-collection assumption.
