@@ -132,11 +132,13 @@ Two faculty, two propagation patterns: Fei's downstream through her course; Nath
 
 ### 3c. For staff
 
-The loop applies to anyone working with AI to produce real artifacts. The clearest staff example I have seen is **Sara Barnett**, who saw an interview bot I had built and changed how she collects learner feedback.
+The loop applies to anyone working with AI to produce real artifacts. The clearest staff example I have seen is **Sara Barnett**, who saw an interview bot I had built and rebuilt how her unit gathers culture feedback. In her own words:
 
-> *[Sara's own words about what changed in her workflow pending — quote will land here in v2 once received with consent. Reviewers: please assess the section's frame and propagation argument; the verbatim quote will reinforce, not introduce, the point.]*
+> "What surprised me most wasn't the tool itself—it was what I learned while building it. I have very little coding experience, but with AI as a partner I was able to solve real problems, learn new skills, and create something that was meaningfully better than what we had before. … The result was a conversational Culture Compass that replaced our traditional culture survey. It wasn't perfect—not even close—but it generated richer feedback, better context behind the data, and more actionable insight than we had before. … it reminded me that I can still learn new things, take risks, and build something useful when there's a real problem worth solving."
+>
+> — Sara Barnett, Director of Learning Support, Teaching and Learning, Gies College of Business
 
-That is **staff-level propagation of the framework**: a colleague outside my role saw a build, recognised what it could do for her workflow, and reshaped the workflow. She did not put in a Canvas ticket. She made the tool fit her.
+Note where she locates the value: not in the tool, but in *what she learned building it* — the staff version of the claim this paper makes about students. That is **staff-level propagation of the framework**: a colleague outside my role saw a build, recognised what it could do for her workflow, and reshaped the workflow. She did not put in a Canvas ticket. She made the tool fit her.
 
 ### 3d. A worked instance — MindForum, in ten hours
 
@@ -186,7 +188,7 @@ Grit-CART names grit as the developmental outcome of running the loop over many 
 
 ### 4.6 "What about staff?"
 
-A reasonable read of this paper through §3a is that the framework is about *teaching* — students learning, faculty teaching. The full position is broader: **the loop applies to anyone working with AI to produce real artifacts**, and that includes staff in student services, advising, program coordination, communications, operations, and research support. §3c — Sara Barnett's redesign of learner feedback after seeing the interview bot — is the worked example. The College's evolving AI strategy places staff embodiment *first* in its institutional sequencing, and this paper's structure matches that bet: staff often sit at the highest-leverage coordination points in an institution, and a small redesign by a staff member can change what the institution attends to more durably than a single course can. The framework treats staff as the *first place embodiment shows up at scale*, with Sara's adoption pattern the visible evidence.
+A reasonable read of this paper through §3a is that the framework is about *teaching* — students learning, faculty teaching. The full position is broader: **the loop applies to anyone working with AI to produce real artifacts**, and that includes staff in student services, advising, program coordination, communications, operations, and research support. §3c — Sara Barnett's redesign of her unit's culture feedback after seeing the interview bot — is the worked example. The College's evolving AI strategy places staff embodiment *first* in its institutional sequencing, and this paper's structure matches that bet: staff often sit at the highest-leverage coordination points in an institution, and a small redesign by a staff member can change what the institution attends to more durably than a single course can. The framework treats staff as the *first place embodiment shows up at scale*, with Sara's adoption pattern the visible evidence.
 
 ---
 
