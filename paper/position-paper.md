@@ -90,14 +90,6 @@ The loop is not solo, and that is not incidental. Step 4 — peer review in a sa
 
 This matters *more* as AI improves, not less. As Larry Gies has put it: AI can do many remarkable things, but it cannot build relationships. The durable, scarce layer of a business education is the trust, collaboration, and reputation that form when people make things together and answer for them to each other — the **living-learning lab**. The loop's peer-review and portfolio steps are where that layer forms: the justification is given *to peers*, the reflection is read *by someone*, the artifact earns a reputation among builders. AI participates in the build; it does not participate in the relationships the build creates. A framework that makes building the medium of learning therefore also makes the **community of builders** the medium of the school.
 
-### 2.8 Orchestration and governance: where the loop sits
-
-Gies's evolving AI strategy names the **orchestration and governance of human-AI teams** as a central priority. The loop is one specification of *how orchestration is acquired*. Orchestration — coordinating AI in live work, exercising discretion, being accountable for outcomes — cannot be lectured into existence; it is situated judgment, and situated judgment is **built rep by rep**. The loop is that developmental engine, sitting between baseline AI fluency (its precondition) and institutional governance (beyond its reach).
-
-Two distinctions place it precisely. First, orchestration in **innovation contexts** — where the output is not specified in advance and people and AI explore toward something neither could specify alone — differs from orchestration that merely augments a known task. The loop lives in the innovation context: the learner does not know what they are building until they build it. The §3 examples — a swarm of agents under one student orchestrator, a faculty-student-AI chain — are student-scale innovation orchestration with both *generative* and *agentic* AI as participants.
-
-Second, **governance is institutional, not pedagogical.** AI is not governed by AI; it is governed by institutions — professions, organizations, and the state. The loop does not deliver that governance. What it builds is the prerequisite for it: learners who have been *accountable for the outputs of the AI they directed* — through the justification, the reflection, the peer review — reach institutional governance already practised in the habit it depends on. The pedagogy occupies the middle; it feeds the governance tier without claiming to be it.
-
 ---
 
 ## 3. What it looks like in practice
@@ -188,7 +180,7 @@ Grit-CART names grit as the developmental outcome of running the loop over many 
 
 ### 4.6 "What about staff?"
 
-A reasonable read of this paper through §3a is that the framework is about *teaching* — students learning, faculty teaching. The full position is broader: **the loop applies to anyone working with AI to produce real artifacts**, and that includes staff in student services, advising, program coordination, communications, operations, and research support. §3c — Sara Barnett's redesign of her unit's culture feedback after seeing the interview bot — is the worked example. The College's evolving AI strategy places staff embodiment *first* in its institutional sequencing, and this paper's structure matches that bet: staff often sit at the highest-leverage coordination points in an institution, and a small redesign by a staff member can change what the institution attends to more durably than a single course can. The framework treats staff as the *first place embodiment shows up at scale*, with Sara's adoption pattern the visible evidence.
+A reasonable read of this paper through §3a is that the framework is about *teaching* — students learning, faculty teaching. The full position is broader: **the loop applies to anyone working with AI to produce real artifacts**, and that includes staff in student services, advising, program coordination, communications, operations, and research support. §3c — Sara Barnett's redesign of her unit's culture feedback after seeing the interview bot — is the worked example. There is a structural reason to foreground staff, not only an inclusive one: staff often sit at the highest-leverage coordination points in an institution, and a small redesign by a staff member can change what the institution attends to more durably than a single course can. Sara's adoption pattern is the visible evidence.
 
 ---
 
