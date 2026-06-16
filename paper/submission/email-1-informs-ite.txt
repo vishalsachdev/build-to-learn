@@ -1,0 +1,17 @@
+To: stefan.creemers@uclouvain.be (Stefan Creemers, Editor-in-Chief, INFORMS Transactions on Education)
+Subject: Pre-submission inquiry — conceptual paper on generative AI and "build-to-learn" in analytics education
+
+Dear Dr. Creemers,
+
+I am the Academic Director of the MS in Business Analytics at the Gies College of Business, University of Illinois Urbana-Champaign. I am preparing a conceptual paper and would like to confirm fit with Transactions on Education before submitting.
+
+The paper argues that generative AI has collapsed the cost of producing a working artifact, which inverts a standing assumption in learning design: "Create" — the top of the revised Bloom taxonomy — becomes an entry move rather than a culmination. It formalizes the shift as a five-step build → compare → reflect loop, best understood as cognitive apprenticeship (Collins, Brown & Newman, 1989) scaled by AI, and grounds the argument in worked cases from analytics and management education while addressing assessment integrity, equity, and faculty development. It is a position/conceptual piece of roughly 6,000 words, explicit about which claims are evidenced and which are offered as hypotheses.
+
+I noticed the journal's 2025 special issue on Generative AI in Teaching Management Science, OR, OM, and Analytics, guest-edited by Jeroen Beliën, Dries Goossens, Juan Jaramillo, and Kyle Maclean. Two questions: (1) is a successor or follow-on issue planned, and (2) absent that, would a conceptual paper of this kind be welcome via regular submission? I would be glad to share the full draft.
+
+With thanks,
+
+Vishal Sachdev
+Academic Director, MS in Business Analytics
+Gies College of Business, University of Illinois Urbana-Champaign
+vishal@illinois.edu
