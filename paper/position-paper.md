@@ -4,7 +4,7 @@
 
 *Vishal Sachdev — Academic Director, MS in Business Analytics, Gies College of Business, University of Illinois Urbana-Champaign*
 
-*Version 2 — 6 June 2026*
+*Version 3 — 15 June 2026*
 
 ---
 
@@ -87,6 +87,8 @@ The loop does not stop being useful at the course boundary. Two extensions follo
 ### 2.7 Relationships, peer review, and the living-learning lab
 
 The loop is not solo, and that is not incidental. Step 4 — peer review in a safe classroom — is where the artifact stops being private and enters a community: other learners see the choice and the reasoning, critique it, adopt what works, build on it. The same propagation runs through §3 — a student's tool gets used by other groups, a staff colleague reshapes her workflow after seeing a build, a faculty member adopts the couplet from another. Built this way, learning is social.
+
+This social loop has a name in the learning-science literature, and it predates AI by decades. Collins, Brown, and Newman's *cognitive apprenticeship* (1989) began from the same problem this paper opens with — that schooling tends to leave expert thinking invisible and detached from real tasks — and answered it by embedding learning in meaningful production, making expert cognitive practice visible, and handing it over through modeling, coaching, scaffolding, and *fading*: the expert's support withdraws as the learner's independent judgment grows. Their sharpest move is to frame complex work as an internalized **producer–critic dialogue** — the learner gradually takes on *both* roles, generating and then criticizing their own output. That is the loop of §2.2, named: AI makes the producer side cheap, so the apprenticeship can run from day one, and the work of the classroom becomes developing the *critic*. One clarification the AI era forces: the expert in this apprenticeship is the faculty member (`#BuilderProf`, §3b) and the peer-review community — **not** the AI. AI is the production substrate, fluent at average patterns (§2.3); the modeling of judgment and the coaching toward it come from people. `#BuildToLearn` is, in this precise sense, **cognitive apprenticeship scaled by AI**: artifacts generated early and cheaply, but expertise still developed the old way — through visible practice, critique, reflection, and the slow fade from coached to independent.
 
 This matters *more* as AI improves, not less. As Larry Gies has put it: AI can do many remarkable things, but it cannot build relationships. The durable, scarce layer of a business education is the trust, collaboration, and reputation that form when people make things together and answer for them to each other — the **living-learning lab**. The loop's peer-review and portfolio steps are where that layer forms: the justification is given *to peers*, the reflection is read *by someone*, the artifact earns a reputation among builders. AI participates in the build; it does not participate in the relationships the build creates. A framework that makes building the medium of learning therefore also makes the **community of builders** the medium of the school.
 

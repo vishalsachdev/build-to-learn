@@ -19,15 +19,17 @@ Each citation is tied to a specific load-bearing claim. The essay and deck use p
 - **Resnick, M. (2017).** *Lifelong Kindergarten: Cultivating Creativity Through Projects, Passion, Peers, and Play.* MIT Press. — Modern restatement; the 4P framework.
 - **Resnick, M. (2002).** "Rethinking Learning in the Digital Age." In G. Kirkman (Ed.), *The Global Information Technology Report: Readiness for the Networked World.* Oxford University Press. — Articulates **digital fluency** as the capacity to *create and design* with a technology, not merely browse/operate it. Load-bearing anchor for the paper's *fluency*-forward framing: `#LearnToBuild` is fluency (build *well*) not literacy (consume); §4.3 frames the equity gap as a *fluency* gap.
 
+## Cognitive apprenticeship (the integrating pedagogy)
+
+- **Collins, A., Brown, J. S., & Newman, S. E. (1989).** "Cognitive Apprenticeship: Teaching the Crafts of Reading, Writing, and Mathematics." In L. B. Resnick (Ed.), *Knowing, Learning, and Instruction: Essays in Honor of Robert Glaser* (pp. 453–494). Lawrence Erlbaum. — The integrating anchor for §2.7. Pre-AI pedagogy that names the paper's problem statement (expert cognition is invisible/decontextualized) and its answer (embed learning in production; make expert process visible; modeling → coaching → scaffolding → **fading**). Its **producer–critic dialogue** is the closest prior name for the build→compare→justify loop (§2.2). Cast deliberately: the *master* is faculty (`#BuilderProf`, §3b) and the peer community (§2.7), **not** the AI — AI is the production substrate. Note: the volume editor is *Lauren* Resnick — distinct from *Mitchel* Resnick (digital fluency, above); disambiguate in any in-text mention.
+- **Collins, A., Brown, J. S., & Holum, A. (1991).** "Cognitive Apprenticeship: Making Thinking Visible." *American Educator, 15*(3), 6–11, 38–46. — Practitioner-facing restatement; its title is the phrase the paper uses for surfacing reasoning, anchoring the "making thinking visible" lineage in §4.1.
+  - **Ritchhart, R., Church, M., & Morrison, K. (2011).** *Making Thinking Visible: How to Promote Engagement, Understanding, and Independence for All Learners.* Jossey-Bass. — External artifacts that expose the learner's reasoning for inspection (§4.1). Cite as the classroom-practice instantiation of the Collins/Brown/Holum "making thinking visible" lineage, not a separate frame.
+
 ## Productive struggle / productive failure
 
 - **Hiebert, J., & Grouws, D. A. (2007).** "The Effects of Classroom Mathematics Teaching on Students' Learning." In F. K. Lester Jr. (Ed.), *Second Handbook of Research on Mathematics Teaching and Learning* (pp. 371–404). NCTM. — Defines productive struggle in math education.
 - **Kapur, M. (2008).** "Productive Failure." *Cognition and Instruction, 26*(3), 379–424. — Failure-then-explanation outperforms direct instruction on transfer tasks. Anchors §2.5 — but the lever is *consolidation* (compare suboptimal attempts against the canonical/better one), which the loop's compare-and-choose step supplies; failure *quantity* alone is not the mechanism.
 - **Eskreis-Winkler, L., & Fishbach, A. (2022).** "You Think Failure Is Hard? So Is Learning From It." *Perspectives on Psychological Science, 17*(6). https://doi.org/10.1177/17456916211059817 — People do *not* naturally learn from failure: it is ego-threatening (emotional barrier) and information-poor (cognitive barrier). Load-bearing anchor for §2.5 — the build-with-AI loop dismantles both barriers (AI externalizes the failure → lower ego threat; compare-variants → extractable lesson). Counters the naive "celebrate failure" cliché, which strengthens rather than weakens the paper. Suggested by Nathan Yang.
-
-## Mental models made visible
-
-- **Ritchhart, R., Church, M., & Morrison, K. (2011).** *Making Thinking Visible: How to Promote Engagement, Understanding, and Independence for All Learners.* Jossey-Bass. — External artifacts that expose the learner's reasoning for inspection.
 
 ## Assessment in the agentic age
 
